@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Wetgeving CombatGain
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welkom bij de wet- en regelgeving van CombatGain. De verschillende documenten die onze wet- en regelgeving omvat zijn opgesteld om de speelervaring voor iedereen zo leuk mogelijk te houden.
 
-## Commands
+Het is zaak dat iedereen die deelneemt aan CombatGain op de hoogte is van de regels en wetten.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+De volgende documenten worden behandeld op deze website:
 
-## Project layout
+- De APV is een verzameling van regels en richtlijnen die te maken hebben met zaken buiten roleplay.
+- Het wetboek van CombatGain omvat alle wetten in de roleplay.
+- De overige documenten zijn van toepassing op verschillende in-game zaken, zoals voertuigeisen en dergelijke.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Officiële discord servers
+
+| *Titel* | *Omschrijving* | *Uitnodiging* |
+|---|---|:---:|
+|CombatGain Roleplay| Discord server van CombatGain | [Klik hier](https://discord.gg/7azsP8FMag) |
+|CombatGain Support| Alle support gerelateerde zaken worden hier geregeld | [Klik hier](https://discord.gg/YwEgxYpUjT) |
+|CombatGain Overheid| Verzamelplaats van alle overheidsorganisaties | [Klik hier](https://discord.gg/DwGQAv5zaT) |
