@@ -1,0 +1,19 @@
+.md-header {
+    background-color: #ff0000 !important;
+}
+
+.md-tabs {
+    background-color: #ff0000 !important;
+}
+
+.md-nav__link--active {
+    color: #ff0000 !important;
+}
+
+.md-typeset a {
+    color: #ff0000 !important;
+}
+
+.md-search__form {
+    background-color: #cc0000 !important;
+}
