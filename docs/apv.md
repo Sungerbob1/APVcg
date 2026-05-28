@@ -53,6 +53,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 4. Het misbruiken van je "Z-spier" om te checken of en hoeveel mensen er in een voertuig zitten, verstopt zitten in bosjes etc. 
 5. Items stelen uit kofferbakken, indien hier geen scenario aan vooraf is gegaan. 
 6. Tijdens een achtervolging je voertuig in de garage zetten om ervoor te zorgen dat je wordt gepakt. 
+7. Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden. 
 
 > Sanctie ⇨ Categorie 1 : Een waarschuwing
 
@@ -204,15 +205,16 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 
 ### Artikel 16 - Rippen
 1. Indien je iemand illegale handelingen hebt zien uitvoeren, mag je deze persoon rippen. 
-2. Indien iemand een kogelwerend vest aan heeft, mag je deze persoon rippen. 
-3. Indien iemand een holster of masker draagt mag je deze persoon <b>rippen</b>
-4. Het bewijs voor rippen is maximaal 3 uur geldig. 
-5. Je mag een voertuig uit een garage eisen, indien je een persoon hier overduidelijk illegale handelingen mee hebt zien doen. 
-6. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. 
-7. Het is toegestaan iemand te rippen die jou overduidelijk volgt. 
-8. Indien je een persoon hebt geript, mag je hem/haar niet vermoorden. 
+2. Indien iemand praat over illegale praktijken, mag je deze persoon ook rippen. 
+3. Indien iemand een kogelwerend vest aan heeft, mag je deze persoon rippen. 
+4. Indien iemand een holster of masker draagt mag je deze persoon <b>rippen</b>
+5. Het bewijs voor rippen is maximaal 3 uur geldig. 
+6. Je mag een voertuig uit een garage eisen, indien je een persoon hier overduidelijk illegale handelingen mee hebt zien doen. 
+7. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. 
+8. Het is toegestaan iemand te rippen die jou overduidelijk volgt. 
+9. Indien je een persoon hebt geript, mag je hem/haar niet vermoorden.  
 
-> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf
+> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
 
 ### Artikel 17 - Taalgebruik
 1. Schelden met hedendaags relevante ziektes, racistische opmerkingen of andere ernstig ongepaste uitingen is verboden.
@@ -270,6 +272,8 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 5. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaan. Dit geldt voor ALLE goederen.
 6. Het is toegestaan om een aankoop in de Tebex store te doen voor een ander. 
 
+> Sanctie ⇨ Categorie 9 : een permanente ban 
+
 ### Artikel 25 - Corruptie
 1. Het is voor een overheidsmedewerker niet toegestaan om illegale activiteiten te doen. 
 2. Het is voor een overheidsmedewerker niet toegestaan om ingenomen goederen achter te houden.
@@ -277,6 +281,8 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
     * Je mag je spullen niet meer verkopen. 
     * Je maakt een report aan om de spullen in te laten nemen. 
     * Je zorgt ervoor dat je deze items in de bewijskluis stopt bij Politie CombatGain.
+
+> Sanctie ⇨ Categorie 8: een ban van 1 maand + 300 uur taakstraf
 
 ### Artikel 26 - Overvallen
 1. Het is toegestaan om overal hostages te pakken. 
