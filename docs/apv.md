@@ -36,6 +36,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
     * Categorie 8: een ban van 1 maand + 300 uur taakstraf
     * Categorie 9: een permanente ban
     * Categorie 10: een account wipe
+    * Categorie 11: een permanente ban & discord ban
 
 2. Een stafflid is ten alle tijden bevoegd om af te wijken van de hierboven geschreven geldigheid van opgelegde sancties. 
 3. Een stafflid kan ten alle tijden bepalen of een bepaald delict valt onder een bepaald feit, verder genoemd in deze APV. 
@@ -54,17 +55,21 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 5. Items stelen uit kofferbakken, indien hier geen scenario aan vooraf is gegaan. 
 6. Tijdens een achtervolging je voertuig in de garage zetten om ervoor te zorgen dat je wordt gepakt. 
 7. Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden. 
+8. Indien je betrokken bent bij een vuurgevecht en geraakt wordt, is het toegestaan om deel te blijven nemen aan het gevecht. Na afloop ben je echter verplicht om medische hulp te verkrijgen van bevoegd medisch personeel.
+9. Het is verplicht indien jij een actie uitvoert zoals "/me bind vast" dat je deze actie eindigt met "/e mechanic. Enkel als je dit op deze manier gebruikt is de actie geldig. Wanneer je "/e mechanic vergeet, is jouw actie ongeldig. 
+10. Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
+11. Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is. 
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Boete van €70.000 + 30 uur taakstraf 
 
 ### Artikel 2 - Cheats en externe software 
 1. Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
 2. Je kan door iemand van het AC Team benaderd worden voor een zogenoemde PC check, dit is niet verplicht echter kan hierdoor wel onschuld worden aangetoond. 
 3. PC checks kunnen niet worden aangevraagd door een burger. 
 4. Je kan ten alle tijden worden gesanctioneerd na aanleiding van ontvangen videobeelden. 
-5. Een zogenoemde crossair is ook niet toegestaan. 
+5. Een zogenoemde crosshair is ook niet toegestaan. 
 
-> Sanctie ⇨ Categorie 2 : een ban van 2 uur + 10 uur taakstraf (Crossair gebruik)
+> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf (Crosshair gebruik)
 
 > Sanctie ⇨ Categorie 9 : een permanente ban (Overige delicten binnen dit artikel)
 
@@ -94,21 +99,20 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 
 > Sanctie: ⇨ Categorie 3: een ban van 12 uur + 75 uur taakstraf 
 
-### Artikel 6 - Combatlogging 
+### Artikel 6 - Combatlogging & combatstashing
 1. Het verlaten van de stad tijdens een lopend roleplayscenario zonder geldige reden of zonder toestemming wordt gezien als combatlogging.
 2. Indien een persoon zijn wapen heeft gebruikt, mag deze de komende 10 minuten de stad niet verlaten, indien iemand toch de stad uit moet dan dient deze persoon een report aan te maken bij de staffleden. 
 3. Indien je in een lopend scenario zat voor een geplande serverrestart dien je na deze restart de stad weer te joinen om het scenario voort te zetten. 
 4. Indien je door welke reden dan ook een gamecrash krijgt, dien je binnen 5 minuten terug in de server te zijn. 
+5. Indien je items (wapens, geld, benodigdheden voor overvallen) hebt geript, moet je 5 minuten wachten totdat je deze items weg mag leggen in een voertuig, appartement of huis.
+6. Het is toegestaan om een gebruikt wapen, over te geven aan een medespeler, de 5 minuten wachttijd gaat dan <b>NIET</b> opnieuw in. 
+7. Indien je als overheidsmedewerker criminele items hebt afgenomen dien je 5 minuten te wachten voordat je het HB in mag rijden. 
+8. Indien jij bijvoorbeeld een wapen in een dashboard stopt en je auto op slot zet, valt dit ook onder combatstashen. 
 
-> Sanctie: ⇨ een ban van 1 dag + 100 uur taakstraf + inventory wordt gecleared
+> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + inventory wordt gecleared (Combatlogging)
+>
+> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + items worden ingenomen (Combatstashing)
 
-### Artikel 6 - Combatstashing
-1. Indien je items (wapens, geld, benodigdheden voor overvallen) hebt geript, moet je 10 minuten wachten totdat je deze items weg mag leggen in een voertuig, appartement of huis.
-2. Het is toegestaan om een gebruikt wapen, over te geven aan een medespeler, de 10 minuten wachttijd gaat dan <b>NIET</b> opnieuw in. 
-3. Indien je als overheidsmedewerker criminele items hebt afgenomen dien je 10 minuten te wachten voordat je het HB in mag rijden. 
-4. Indien jij bijvoorbeeld een wapen in een dashboard stopt en je auto op slot zet, valt dit ook onder combatstashen. 
-
-> Sanctie: ⇨ een ban van 1 dag + 100 uur taakstraf + items worden ingenomen
 
 ### Artikel 7 - GTA Driving Style 
 1. Het is niet toegestaan een onrealistische rijstijl aan te nemen. Voorbeelden hiervan zijn:
@@ -127,7 +131,7 @@ LET OP: <b>Pitten is geen beuken</b>
 Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. Er wordt van je verwacht dat je realistisch handelt op levensbedreigende situaties, enkele voorbeelden hiervan zijn: 
 
 * Het is niet toegestaan om zelfmoordscenario's op te zetten. 
-* Op het moment dat je geript wordt dien je de items binnen 10 seconden op de grond te droppen. 
+* Op het moment dat je geript wordt dien je de items binnen 10 seconden op de grond te droppen. Dit geldt ook voor je voertuig open te zetten. 
 * Het is niet toegestaan om met je voertuig het water in te rijden. 
 * Je bent verplicht mee te werken indien een slag/steekwapen binnen armlengte staat. 
 * Je mag niet van een brug afspringen indien je geen parachute hebt. 
@@ -136,8 +140,9 @@ Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. 
 * Het is geen No Value of Life indien iemand met een slag of steekwapen tegen de deur van je auto staat wanneer alle deuren en ramen gesloten zijn. 
 * Je hoeft niet mee te werken indien er een stroomstootwapen op je gericht staat. Wanneer je wel geraakt bent door dit wapen, dien je mee te werken en mag je niet meer wegrennen.  
 * Het is geen No Value Of Life indien je wordt gehandsupped buiten shoutingrange.
+* Op het moment dat je gehandsupped wordt, mag je niet gedwongen worden om de NPC met de drugsopslag te legen. 
 
-> Sanctie: ⇨ Categorie 5: een ban 2 dagen + 150 uur taakstraf
+> Sanctie ⇨ Boete van €65.000 + 20 uur taakstraf 
 
 
 ### Artikel 9 - Hoorbaarheid
@@ -189,7 +194,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
     * Als een persoon bewust voor een voertuig gaat staan, zien we dit als een verkeersongeval.
     * Bewust voor iemand remmen zodat deze persoon tegen jou aanknalt is niet toegestaan.
 
-> Sanctie: ⇨ een ban van 1 dag + 100 uur taakstraf 
+> Sanctie ⇨ Boete van €75.000 + 30 uur taakstraf 
 
 ### Artikel 15 - RDM (Random Deathmatch)
 1. Het is verboden om willekeurige shootouts te starten zonder geldige roleplay aanleiding. 
@@ -200,26 +205,31 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 6. Wie aan het schieten is, loopt het risico te worden doodgeschoten. Dit is eigen risico.
 7. Wie een vuurwapen trekt op een locatie waar wordt geschoten, doet dit op eigen risico en mag worden doodgeschoten of gefinisht.
 8. Het willekeurig vermoorden van spelers zonder geldige reden is verboden.
+9. Het is toegestaan iemand te doden indien hij overduidelijk aan het scouten rondom illegale activiteiten. 
 
-> Sanctie: ⇨ een ban van 1 dag + 100 uur taakstraf + een Super Moderator+ kan besluiten je wapen in te nemen. 
+> Sanctie ⇨ Boete van €75.000 + 30 uur taakstraf. 
+> Note: Een Super Moderator behoud zich het recht het vuurwapen in te nemen. 
 
 ### Artikel 16 - Rippen
-1. Indien je iemand illegale handelingen hebt zien uitvoeren, mag je deze persoon rippen. 
-2. Indien iemand praat over illegale praktijken, mag je deze persoon ook rippen. 
-3. Indien iemand een kogelwerend vest aan heeft, mag je deze persoon rippen. 
-4. Indien iemand een holster of masker draagt mag je deze persoon <b>rippen</b>
-5. Het bewijs voor rippen is maximaal 3 uur geldig. 
-6. Je mag een voertuig uit een garage eisen, indien je een persoon hier overduidelijk illegale handelingen mee hebt zien doen. 
-7. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. 
-8. Het is toegestaan iemand te rippen die jou overduidelijk volgt. 
-9. Indien je een persoon hebt geript, mag je hem/haar niet vermoorden.  
+
+1. Het is toegestaan iemand te rippen in de volgende gevallen: 
+    * Dragen van een kogelwerend vest, masker en/of holster; 
+    * Indien iemand actief aan het volgen/scouten is; 
+    * Je hebt een persoon illegale handelingen zien verrichten; 
+    * Persoon is in de straal van 50 meter van een illegale locatie. 
+2. Het bewijs voor een rip is maximaal 3 uren geldig
+3. Indien je een reden hebt op een persoon, mag je het voertuig waarop je de reden hebt eisen uit de garage; 
+4. Je mag een persoon niet vermoorden als je hem/haar hebt geript. Dit geldt voor iedereen uit jouw groepering. 
+5. Indien een wapencirkel actief is wordt dit gezien als een illegale locatie. 
+6. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. Tenzij persoon overduidelijk een anders eruit ziet dan voor de eerste rip. 
 
 > Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
 
 ### Artikel 17 - Taalgebruik
-1. Schelden met hedendaags relevante ziektes, racistische opmerkingen of andere ernstig ongepaste uitingen is verboden.
+1. Schelden met hedendaags relevante ziektes, racistische opsmerkingen of andere ernstig ongepaste uitingen is verboden.
 2. Vrouwonvriendelijke beledigingen of denigrerende opmerkingen zijn verboden.
 3. Het betrekken van ouders of familieleden in beledigingen of conflicten valt onder dit artikel en wordt zwaarder beoordeeld.
+4. Toxic gedrag wordt in geen enkele vorm toegestaan. Beoordeling of iets valt onder toxic gedrag is op bepaling van een stafflid. 
 
 > Sanctie ⇨ een ban van 1 dag + 100 uur taakstraf
 
@@ -241,7 +251,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 ### Artikel 20 - Streamsniping
 1. Het opzoeken van spelers, gebruiken van locaties of inzetten van informatie op basis van een stream is ten strengste verboden.
 
-> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf
+> Sanctie ⇨ Categorie 6: een ban 1 week + 175 uur taakstraf
 
 ### Artikel 21 - Jobhoppen
 1. (Ex)leden van een criminele organisatie moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere criminele organisatie mogen worden aangenomen.
@@ -294,7 +304,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 
 > Sanctie ⇨ Categorie 7: een ban 2 weken + 200 uur taakstraf + ontheffing van dienstverband
 
-### Artikel 27 Ontvoeren van overheidsmedewerkers
+### Artikel 27 - Ontvoeren van overheidsmedewerkers
 1. Ambulancemedewerkers mogen niet worden ontvoerd wanneer zij zichtbaar in dienst zijn.
 2. Per 3 agenten in dienst mag er 1 agent gegijzeld worden. 
 3. Agenten die bezig zijn met een training mogen niet worden gegijzeld. Er moet zichtbaar zijn dat zij in een training zitten. 
@@ -308,7 +318,17 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 3. Het is niet toegestaan om onrealistisch te landen, bijvoorbeeld met een helikopter midden op Blokkenpark, midden op straat omdat je naar een winkel wilt, of op andere plekken waar dit in realistische roleplay niet logisch is.
 4. Gebruik je gezonde verstand bij opstijgen, landen, laagvliegen en het vervoeren van personen of goederen.
 
+### Artikel 29 - Minigames 
+1. Het is tijdens minigames verboden om samen te werken met andere spelers
+2. Het is toegestaan om tijdens minigames in een call te zitten.  
+
 > Sanctie ⇨ Categorie 1 : Een waarschuwing
+
+### Artikel 30 - Remakes 
+1. Het is ten strengste verboden om serverbestanden te dumpen, na te maken of op welke manier dan ook te verspreiden zonder uitdrukkelijke toestemming.
+2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
+
+> Sanctie ⇨ Categorie 11 : Een permanente ban & discord ban
 
 ---------------------
 # Slotbepaling 
