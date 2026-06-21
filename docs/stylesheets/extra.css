@@ -133,3 +133,9 @@ body::before {
   backdrop-filter: none !important;
   -webkit-backdrop-filter: none !important;
 }
+/* Witte achtergrond achter de sidebar-titel ("Rework APV test") weghalen */
+.md-nav__title {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
