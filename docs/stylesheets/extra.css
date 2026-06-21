@@ -8,11 +8,23 @@
 
 /* Header */
 .md-header {
-    background-color: #ef4655 !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
 }
 
 .md-tabs {
-    background-color: #c4283a !important;
+    background-color: transparent !important;
+}
+
+/* Tekstschaduw zodat titel en zoekbalk leesbaar blijven tegen de achtergrondafbeelding */
+.md-header__title,
+.md-header__topic {
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+}
+
+/* Iconen (logo, thema-toggle) ook een lichte schaduw geven voor zichtbaarheid */
+.md-header__button {
+    filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.6));
 }
 
 /* Links */
@@ -28,9 +40,32 @@
     color: #f47683 !important;
 }
 
-/* Search bar */
+/* ===== Zoekbalk: semi-transparant, past bij de transparante header ===== */
 .md-search__form {
-    background-color: #c4283a !important;
+    background-color: rgba(239, 70, 85, 0.55) !important;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 6px;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Iets steviger zodra je erin klikt/typt, voor focus */
+.md-search__form:hover,
+.md-search__input:focus ~ .md-search__form,
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+    background-color: rgba(196, 40, 58, 0.75) !important;
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+/* Placeholder en invoertekst goed leesbaar houden tegen de achtergrond */
+.md-search__input,
+.md-search__input::placeholder {
+    color: #ffffff !important;
+}
+
+.md-search__icon svg {
+    fill: #ffffff !important;
 }
 
 /* Scrollbars */
@@ -184,8 +219,9 @@ body::before {
 
 .md-typeset .admonition.quote > .admonition-title::before,
 .md-typeset details.quote > summary::before {
-  background-color: rgb(239, 70, 85);
+  background-color: #ef4655;
 }
+
 /* ===== Dark mode fixes voor leesbaarheid admonities ===== */
 
 /* Titelbalk-tekst van danger/quote admonities altijd donker, ook in dark mode */
@@ -225,55 +261,3 @@ body::before {
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
   color: #ffffff !important;
 }
-/* Header transparant maken zodat de achtergrondafbeelding zichtbaar is */
-.md-header {
-    background-color: transparent !important;
-    box-shadow: none !important;
-}
-
-/* Tabs-balk ook transparant (optioneel, verwijder dit blok als je de tabs wél rood wilt houden) */
-.md-tabs {
-    background-color: transparent !important;
-}
-
-/* Tekstschaduw zodat titel en zoekbalk leesbaar blijven tegen de achtergrondafbeelding */
-.md-header__title,
-.md-header__topic {
-    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
-}
-
-/* Zoekbalk: semi-transparant, past bij de transparante header */
-.md-search__form {
-    background-color:   color: #ffffff !important;
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    border-radius: 6px;
-    transition: background-color 0.2s ease, border-color 0.2s ease;
-}
-d
-/* Iets steviger zodra je erin klikt/typt, voor focus */
-.md-search__form:hover,
-.md-search__input:focus ~ .md-search__form,
-[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
-    background-color: rgba(196, 40, 58, 0.75) !important;
-    border-color: rgba(255, 255, 255, 0.4);
-}
-
-/* Placeholder en invoertekst goed leesbaar houden tegen de achtergrond */
-.md-search__input,
-.md-search__input::placeholder {
-    color: #ffffff !important;
-}
-
-.md-search__icon svg {
-    fill: #ffffff !important;
-}
-
-/* Iconen (logo, thema-toggle) ook een lichte schaduw geven voor zichtbaarheid */
-.md-header__button {
-    filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.6));
-}
-.md-ellipis {
-  color: rgba(239, 70, 85, 0.55) !important;
-} 
