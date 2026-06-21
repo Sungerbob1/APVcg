@@ -139,3 +139,28 @@ body::before {
   background-color: transparent !important;
   box-shadow: none !important;
 }
+
+/* Roodachtig thema voor alle tabellen in het document */
+.md-typeset table:not([class]) {
+  border: 1px solid #7a1f2b;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #7a1f2b;
+  color: #ffffff;
+}
+
+.md-typeset table:not([class]) td {
+  background-color: #fdf2f3;
+  border-color: #f3d4d8;
+}
+
+/* Subtiele afwisseling tussen rijen voor leesbaarheid */
+.md-typeset table:not([class]) tr:nth-child(even) td {
+  background-color: #f8e2e5;
+}
+
+/* Hover-effect op rijen */
+.md-typeset table:not([class]) tr:hover td {
+  background-color: #f3d4d8;
+}
