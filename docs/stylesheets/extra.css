@@ -276,8 +276,3 @@ body::before {
 .md-search__form {
     background-color: rgba(239, 70, 85, 0.55) !important;
 }
-
-/* Ruimte vrijhouden zodat de titel niet onder de losse zoekbalk verdwijnt */
-.md-header__inner {
-    padding-right: 14rem;
-}
