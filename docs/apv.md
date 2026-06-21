@@ -6,7 +6,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 
  <center> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </center>
 
-## Algemene bepalingen
+## Inleiding
 
 ### 1.1 Reikwijdte en geldigheid
 
