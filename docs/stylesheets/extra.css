@@ -265,3 +265,19 @@ body::before {
 .md-header__title {
     color: #ef4655 !important;
 }
+/* Zoekbalk altijd zichtbaar houden, ook als de header verdwijnt bij scrollen */
+.md-search {
+    position: fixed !important;
+    top: 0.6rem;
+    right: 1rem;
+    z-index: 5;
+}
+
+.md-search__form {
+    background-color: rgba(239, 70, 85, 0.55) !important;
+}
+
+/* Ruimte vrijhouden zodat de titel niet onder de losse zoekbalk verdwijnt */
+.md-header__inner {
+    padding-right: 14rem;
+}
