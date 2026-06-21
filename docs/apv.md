@@ -29,7 +29,7 @@
 1. Indien regelgeving wordt gewijzigd nadat een overtreding of strafbaar feit heeft plaatsgevonden, wordt de bepaling toegepast die voor de betrokkene het meest gunstige rechtsgevolg heeft.
 2. Een stafflid is gehouden zich te onthouden van iedere beoordeling, besluitvorming of advisering in zaken waarbij sprake is van een direct of indirect persoonlijk belang.
 3. In afwijking van het bepaalde in het tweede lid kan voor leden van het management, adviseurs en eigenaren een uitzondering worden gemaakt, indien de omstandigheden van het geval daartoe noodzaken.
-4. Indien een betrokkene aantoonbaar onjuiste, misleidende of onvolledige dangerrmatie verstrekt aan staffleden gedurende een onderzoek of procedure, kan dit als strafverzwarende omstandigheid worden aangemerkt bij de beoordeling van de zaak.
+4. Indien een betrokkene aantoonbaar onjuiste, misleidende of onvolledige informatie verstrekt aan staffleden gedurende een onderzoek of procedure, kan dit als strafverzwarende omstandigheid worden aangemerkt bij de beoordeling van de zaak.
 
 ---
 
@@ -74,15 +74,15 @@
 
     Voer je een actie uit zoals `/me bind vast`, dan ben je verplicht deze af te sluiten met `/e mechanic`. Alleen op die manier is de actie geldig; vergeet je `/e mechanic`, dan is de actie ongeldig. Tot slot is het verboden om meth te produceren in of onder gebouwen, in tunnels of op treinsporen — kortom, er mag niet gekookt worden op locaties waar de rode rook niet zichtbaar is.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 🖥️ Artikel 2 — Cheats
 
 ??? danger "💡 Uitleg"
     Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden — een zogenoemde crosshair valt hier ook onder. Je kunt door iemand van het AC Team benaderd worden voor een zogenoemde PC-check; dit is niet verplicht, maar hiermee kan wel onschuld worden aangetoond. Let op: PC-checks kunnen niet worden aangevraagd door een burger zelf. Verder kun je te allen tijde worden gesanctioneerd naar aanleiding van ontvangen videobeelden.
 
-    **🚨 Sanctie ⇨ Categorie 2** — gebruik van een crosshair
-    **☠️ Sanctie ⇨ Categorie 9** — overige delicten binnen dit artikel
+    **🚨 Sanctie ⇨ Categorie 2** *(taakstraf van 100 uur)* — gebruik van een crosshair
+    **☠️ Sanctie ⇨ Categorie 9** *(permanente verbanning)* — overige delicten binnen dit artikel
 
 #### 🐞 Artikel 3 — Exploits en bugmisbruik
 
@@ -93,19 +93,19 @@
         - Misbruik maken van het F6-menu voor overheid en/of groeperingen
         - Monkeypunchen
 
-    **🚨 Sanctie ⇨ Categorie 8**
+    **🚨 Sanctie ⇨ Categorie 8** *(taakstraf van 1.500 uur)*
 
 #### 🗣️ Artikel 4 — Metagamen en externe communicatie
 
 ??? danger "💡 Uitleg"
-    1. Gekregen dangerrmatie OOC mag je niet gebruiken IC.
+    1. Gekregen informatie OOC mag je niet gebruiken IC.
     2. Het is toegestaan om in een call te zitten wanneer je aanwezig bent in CombatGain, mits:
         - je gedeafend en gemute in deze call zit;
-        - je geen dangerrmatie doorspeelt via deze call;
+        - je geen informatie doorspeelt via deze call;
         - je niet aan het streamen bent.
     3. Voor een overvalscenario mogen via Discord aanvullende documenten of bijlagen worden gestuurd; deze documenten stuur je naar de onderhandelaar van de desbetreffende overval.
 
-    **🚨 Sanctie ⇨ Categorie 3**
+    **🚨 Sanctie ⇨ Categorie 3** *(taakstraf van 180 uur)*
 
 #### 🎣 Artikel 5 — Uitlokken van overheid of criminelen
 
@@ -113,7 +113,7 @@
     1. Het bewust uitlokken van politie met de bedoeling hen te irriteren, bezig te houden of zonder geldige roleplay tot actie te dwingen, wordt gezien als **copbaiting**.
     2. Het bewust uitlokken van officiële of onofficiële gangleden zonder geldige vorm van roleplay wordt gezien als **crimebaiting**.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 🏃 Artikel 6 — Combatlogging & combatstashing
 
@@ -127,8 +127,8 @@
     7. Indien je als overheidsmedewerker criminele items hebt afgenomen, dien je 5 minuten te wachten voordat je het HB in mag rijden.
     8. Indien jij bijvoorbeeld een wapen in een dashboard stopt en je auto op slot zet, valt dit ook onder combatstashen.
 
-    **🚨 Sanctie ⇨ Categorie 4** — inventory wordt gecleared (combatlogging)
-    **🚨 Sanctie ⇨ Categorie 4** — items worden ingenomen (combatstashing)
+    **🚨 Sanctie ⇨ Categorie 4** *(taakstraf van 300 uur)* — inventory wordt gecleared (combatlogging)
+    **🚨 Sanctie ⇨ Categorie 4** *(taakstraf van 300 uur)* — items worden ingenomen (combatstashing)
 
 #### 🚗 Artikel 7 — GTA Driving Style
 
@@ -144,7 +144,7 @@
     !!! warning "⚠️ Let op"
         Pitten is geen beuken.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### ❤️ Artikel 8 — No Value of Life
 
@@ -153,7 +153,7 @@
 
     Rijd je boven de 30 km/h, dan hoef je niet uit te stappen als daarom gevraagd wordt. Staat er een wapen op je gericht, dan mag je geen gebruik maken van je telefoon of portofoon, en mag ook de overheid geen noodknoppen meer inzetten. Het is geen No Value of Life wanneer iemand met een slag- of steekwapen tegen de deur van je auto staat terwijl alle deuren en ramen gesloten zijn, en evenmin wanneer je buiten shoutingrange wordt gehandsupt. Bij een stroomstootwapen hoef je niet mee te werken zolang je nog niet geraakt bent; ben je wel geraakt, dan dien je mee te werken en mag je niet meer wegrennen. Word je gehandsupt, dan mag je niet gedwongen worden om de NPC met de drugsopslag te legen.
 
-    **🚨 Sanctie ⇨ Categorie 4**
+    **🚨 Sanctie ⇨ Categorie 4** *(taakstraf van 300 uur)*
 
 #### 🎙️ Artikel 9 — Hoorbaarheid
 
@@ -164,7 +164,7 @@
     4. Het is alleen toegestaan je stem te verlagen; het verhogen van je stem is niet toegestaan.
     5. Het misbruiken van je microfoon is niet toegestaan, denk aan ear-rapen, blazen, schreeuwen, muziek door je microfoon draaien of storende soundpads.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 📝 Artikel 10 — Reports en meldingen
 
@@ -173,14 +173,14 @@
     2. Indien jij een klacht hebt over iemand die Random Deathmatch (RDM) pleegt, kan dit niet via livesupport worden opgelost en dien je te allen tijde een ticket aan te maken.
     3. Je bent verplicht een clipsysteem te hebben; zonder clips van de situatie kunnen de staffleden geen klachten en/of reports in behandeling nemen.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 🎬 Artikel 11 — OOC
 
 ??? danger "💡 Uitleg"
     Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt die out of character zijn, zoals "report", "staff", "ticket", "desync" of vergelijkbare woorden.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 👤 Artikel 12 — Accounts
 
@@ -192,7 +192,7 @@
         - een nieuw account aanmaken om opnieuw te beginnen — hiervoor dient een ticket aangemaakt te worden.
     3. Ook accountsharing is niet toegestaan.
 
-    **☠️ Sanctie ⇨ Categorie 10**
+    **☠️ Sanctie ⇨ Categorie 10** *(permanente verbanning inclusief accountwipe)*
 
 #### 👮 Artikel 13 — Impersonatie van overheidsmedewerkers
 
@@ -200,7 +200,7 @@
     1. Het is verboden jezelf voor te doen als overheidsmedewerker of kleding te dragen waarmee je bewust die indruk wekt.
     2. Het dragen van body armor of tassen van de overheid is niet toegestaan wanneer je daar geen recht op hebt.
 
-    **🚨 Sanctie ⇨ Categorie 2**
+    **🚨 Sanctie ⇨ Categorie 2** *(taakstraf van 100 uur)*
 
 #### 🚙 Artikel 14 — VDM (Vehicle Deathmatch)
 
@@ -213,7 +213,7 @@
         - als een persoon bewust voor een voertuig gaat staan, zien we dit als een verkeersongeval;
         - bewust voor iemand remmen zodat deze persoon tegen jou aanknalt, is niet toegestaan.
 
-    **🚨 Sanctie ⇨ Categorie 4**
+    **🚨 Sanctie ⇨ Categorie 4** *(taakstraf van 300 uur)*
 
 #### 🔫 Artikel 15 — RDM (Random Deathmatch)
 
@@ -228,7 +228,7 @@
     8. Het willekeurig vermoorden van spelers zonder geldige reden is verboden.
     9. Het is toegestaan iemand te doden indien hij overduidelijk aan het scouten is rondom illegale activiteiten.
 
-    **🚨 Sanctie ⇨ Categorie 4**
+    **🚨 Sanctie ⇨ Categorie 4** *(taakstraf van 300 uur)*
 
 #### 💰 Artikel 16 — Rippen
 
@@ -244,7 +244,7 @@
     5. Indien een wapencirkel actief is, wordt dit gezien als een illegale locatie.
     6. Het is niet toegestaan om iemand meerdere keren binnen 1 uur te rippen, tenzij de persoon overduidelijk anders is verkleed dan voor de eerste rip.
 
-    **🚨 Sanctie ⇨ Categorie 3**
+    **🚨 Sanctie ⇨ Categorie 3** *(taakstraf van 180 uur)*
 
 #### 💬 Artikel 17 — Taalgebruik
 
@@ -254,17 +254,17 @@
     3. Het betrekken van ouders of familieleden in beledigingen of conflicten valt onder dit artikel en wordt zwaarder beoordeeld.
     4. Toxic gedrag wordt in geen enkele vorm toegestaan. De beoordeling of iets valt onder toxic gedrag is ter bepaling van een stafflid.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 🪙 Artikel 18 — Scammen en oplichting
 
 ??? danger "💡 Uitleg"
     1. Scammen is in CombatGain volledig verboden. Het maakt niet uit of de deal in game, via Discord of op een andere manier tot stand is gekomen.
-    2. Onder scammen valt iedere vorm van oplichting waarbij afspraken over geld, goederen, wapens, drugs, voertuigen, diensten, dangerrmatie of andere waardevolle zaken bewust niet worden nagekomen.
+    2. Onder scammen valt iedere vorm van oplichting waarbij afspraken over geld, goederen, wapens, drugs, voertuigen, diensten, informatie of andere waardevolle zaken bewust niet worden nagekomen.
     3. Ook het misleiden van een speler over prijs, hoeveelheid, item, voorwaarden, levering, betaling of identiteit valt onder scammen.
     4. Het verbod geldt voor alle transacties en voor alle soorten middelen, zowel witgeld als zwartgeld en zowel legale als illegale goederen.
 
-    **🚨 Sanctie ⇨ Categorie 3**
+    **🚨 Sanctie ⇨ Categorie 3** *(taakstraf van 180 uur)*
 
 #### 🔊 Artikel 19 — Stemherkenning
 
@@ -273,14 +273,14 @@
     2. Je mag iemands stem niet herkennen wanneer die persoon een masker draagt.
     3. Wanneer iemand een voicechanger gebruikt, mag die persoon niet aan zijn of haar stem worden herkend.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 📺 Artikel 20 — Streamsniping
 
 ??? danger "💡 Uitleg"
-    1. Het opzoeken van spelers, gebruiken van locaties of inzetten van dangerrmatie op basis van een stream is ten strengste verboden.
+    1. Het opzoeken van spelers, gebruiken van locaties of inzetten van informatie op basis van een stream is ten strengste verboden.
 
-    **🚨 Sanctie ⇨ Categorie 3**
+    **🚨 Sanctie ⇨ Categorie 3** *(taakstraf van 180 uur)*
 
 #### 🔁 Artikel 21 — Jobhoppen
 
@@ -289,18 +289,18 @@
     2. (Ex-)overheidsmedewerkers moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere overheidsdienst mogen worden aangenomen.
     3. Deze wachttijd geldt ook wanneer men van overheid naar criminele organisatie gaat en vice versa.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 🔄 Artikel 22 — New Life Rule
 
 ??? danger "💡 Uitleg"
-    1. Wanneer je karakter overlijdt, wordt verwacht dat je de laatste roleplay vergeet en deze dangerrmatie niet opnieuw gebruikt.
-    2. Als jouw karakter is komen te overlijden, wordt verwacht dat jij alle roleplay van vóór jouw dood bent vergeten, zoals locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden — dan kan je enkel de dangerrmatie gebruiken die je hoort.
+    1. Wanneer je karakter overlijdt, wordt verwacht dat je de laatste roleplay vergeet en deze informatie niet opnieuw gebruikt.
+    2. Als jouw karakter is komen te overlijden, wordt verwacht dat jij alle roleplay van vóór jouw dood bent vergeten, zoals locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden — dan kan je enkel de informatie gebruiken die je hoort.
 
     !!! warning "⚠️ Let op"
         Je mag niet terug aansluiten bij het scenario waarin je bent overleden.
 
-    **🚨 Sanctie ⇨ Categorie 2**
+    **🚨 Sanctie ⇨ Categorie 2** *(taakstraf van 100 uur)*
 
 #### 🏕️ Artikel 23 — Campen van locaties
 
@@ -309,19 +309,19 @@
     2. Onder belangrijke locaties vallen onder andere het politiehoofdbureau, het ziekenhuis, gangterreinen en andere drukbezochte of kwetsbare plekken.
     3. Een locatie korte tijd observeren binnen een lopend roleplayscenario kan toegestaan zijn, zolang dit realistisch blijft en niet verandert in langdurig opwachten zonder actieve roleplay.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 💸 Artikel 24 — IRL Trading
 
 ??? danger "💡 Uitleg"
-    1. IRL trading is verboden. Hieronder valt het kopen, verkopen, ruilen of aanbieden van in-game geld, items, wapens, voertuigen, accounts, diensten, dangerrmatie of voordelen voor echt geld of andere waarde buiten de server.
+    1. IRL trading is verboden. Hieronder valt het kopen, verkopen, ruilen of aanbieden van in-game geld, items, wapens, voertuigen, accounts, diensten, informatie of voordelen voor echt geld of andere waarde buiten de server.
     2. Ook het vragen om betalingen, cadeaubonnen, cryptovaluta, betaalverzoeken, goederen of diensten buiten CombatGain in ruil voor in-game voordeel valt onder IRL trading.
     3. Het aanbieden of faciliteren van IRL trading is eveneens verboden, ook wanneer de transactie uiteindelijk niet doorgaat.
     4. Het is niet toegestaan om donatievoertuigen te verkopen voor in-game valuta.
     5. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven wanneer deze de stad uit gaan. Dit geldt voor **alle** goederen.
     6. Het is toegestaan om een aankoop in de Tebex store te doen voor een ander.
 
-    **☠️ Sanctie ⇨ Categorie 9**
+    **☠️ Sanctie ⇨ Categorie 9** *(permanente verbanning)*
 
 #### 🕵️ Artikel 25 — Corruptie
 
@@ -333,7 +333,7 @@
         - je maakt een report aan om de spullen in te laten nemen;
         - je zorgt ervoor dat je deze items in de bewijskluis stopt bij Politie CombatGain.
 
-    **🚨 Sanctie ⇨ Categorie 8**
+    **🚨 Sanctie ⇨ Categorie 8** *(taakstraf van 1.500 uur)*
 
 #### 🎯 Artikel 26 — Overvallen
 
@@ -345,7 +345,7 @@
     5. Het is niet toegestaan een hostage te rippen.
     6. Het is niet toegestaan om een zogenoemde friendly hostage te nemen.
 
-    **🚨 Sanctie ⇨ Categorie 3**
+    **🚨 Sanctie ⇨ Categorie 3** *(taakstraf van 180 uur)*
 
 #### ⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers
 
@@ -354,7 +354,7 @@
     2. Per 3 agenten in dienst mag er 1 agent gegijzeld worden.
     3. Agenten die bezig zijn met een training mogen niet worden gegijzeld. Er moet zichtbaar zijn dat zij in een training zitten.
 
-    **🚨 Sanctie ⇨ Categorie 2**
+    **🚨 Sanctie ⇨ Categorie 2** *(taakstraf van 100 uur)*
 
 #### 🚁 Artikel 28 — Helikopters en vliegtuigen
 
@@ -364,7 +364,7 @@
     3. Het is niet toegestaan om onrealistisch te landen, bijvoorbeeld met een helikopter midden op Blokkenpark, midden op straat omdat je naar een winkel wilt, of op andere plekken waar dit in realistische roleplay niet logisch is.
     4. Gebruik je gezonde verstand bij opstijgen, landen, laagvliegen en het vervoeren van personen of goederen.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 🎮 Artikel 29 — Minigames
 
@@ -372,7 +372,7 @@
     1. Het is tijdens minigames verboden om samen te werken met andere spelers.
     2. Het is toegestaan om tijdens minigames in een call te zitten.
 
-    **🚨 Sanctie ⇨ Categorie 1**
+    **🚨 Sanctie ⇨ Categorie 1** *(taakstraf van 50 uur)*
 
 #### 🧬 Artikel 30 — Remakes
 
@@ -380,7 +380,7 @@
     1. Het is ten strengste verboden om serverbestanden te dumpen, na te maken of op welke manier dan ook te verspreiden zonder uitdrukkelijke toestemming.
     2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
 
-    **☠️ Sanctie ⇨ Categorie 10**
+    **☠️ Sanctie ⇨ Categorie 10** *(permanente verbanning inclusief accountwipe)*
 
 ---
 
