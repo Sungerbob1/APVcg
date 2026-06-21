@@ -13,7 +13,7 @@
 
 | | Document | Omschrijving |
 |:---:|---|---|
-| ⚖️ | **[Algemene Plaatselijke Verordening](APV.md)** | Een verzameling van regels en richtlijnen die te maken hebben met zaken buiten roleplay. |
+| ⚖️ | **[Algemene Plaatselijke Verordening](apv.md)** | Een verzameling van regels en richtlijnen die te maken hebben met zaken buiten roleplay. |
 | 📖 | **[Wetboek](wetboek.md)** | Omvat alle wetten die gelden binnen de roleplay. |
 | 🚗🏝️ | **[Eiland regelgeving](eiland.md)** | Alle regels die gelden ophet Cayo Perico eiland. | 
 | 🚗🏝️ | **[Voertuigen](offroad.md)** | Een speciaal overzicht welke voertuigen offroad mogen rijden. |
