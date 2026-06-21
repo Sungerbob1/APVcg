@@ -77,10 +77,6 @@ body::before {
   fill: #ffffff !important;
 }
 
-.md-header__inner {
-  padding-right: 14rem;
-}
-
 /* -------------------------------------------------------------
    Links & navigation
    ------------------------------------------------------------- */
