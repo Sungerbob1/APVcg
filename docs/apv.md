@@ -342,3 +342,12 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 3. In gevallen waarin deze APV niet voorziet, beslist het beheer van CombatGain naar redelijkheid en billijkheid.
 4. Aan de inhoud van deze APV kunnen geen rechten worden ontleend die strijdig zijn met besluiten van het beheer van CombatGain.
 5. Deze APV treedt in werking op het moment van publicatie en blijft van kracht totdat zij geheel of gedeeltelijk wordt vervangen of ingetrokken.
+
+
+??? info "Enkele voorbeelden van Cheats/Externe Software zijn"
+
+    - Aimbot
+    - ESP / Wallhack
+    - Triggerbot
+    - Macro's
+    - Mod Menu's
