@@ -20,27 +20,28 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 3. In afwijking van het bepaalde in het tweede lid kan voor leden van het management, adviseurs en eigenaren een uitzondering worden gemaakt, indien de omstandigheden van het geval daartoe noodzaken.
 4. Indien een betrokkene aantoonbaar onjuiste, misleidende of onvolledige informatie verstrekt aan staffleden gedurende een onderzoek of procedure, kan dit als strafverzwarende omstandigheid worden aangemerkt bij de beoordeling van de zaak.
 
-### 1.3 Sanctiecategorieën
+### Artikel 1.3 – Sanctiestelsel
 
-1. De straffen zijn verdeeld in de volgende categorieën.
-    * Categorie 1: een waarschuwing 
-    * Categorie 2: een ban van 2 uur + 10 uur taakstraf 
-    * Categorie 3: een ban van 12 uur + 75 uur taakstraf 
-    * Categorie 4: een ban van 1 dag + 100 uur taakstraf
-    * Categorie 5: een ban 2 dagen + 150 uur taakstraf
-    * Categorie 6: een ban 1 week + 175 uur taakstraf
-    * Categorie 7: een ban 2 weken + 200 uur taakstraf
-    * Categorie 8: een ban van 1 maand + 300 uur taakstraf
-    * Categorie 9: een permanente ban
-    * Categorie 10: een account wipe
-    * Categorie 11: een permanente ban & discord ban
+1. De sancties die op grond van deze APV kunnen worden opgelegd, zijn ingedeeld in de volgende categorieën.
+    * Categorie 1: een schriftelijke waarschuwing
+    * Categorie 2: een taakstraf van 100 uur
+    * Categorie 3: een taakstraf van 250 uur
+    * Categorie 4: een taakstraf van 500 uur
+    * Categorie 5: een taakstraf van 800 uur
+    * Categorie 6: een taakstraf van 1200 uur
+    * Categorie 7: een taakstraf van 1600 uur
+    * Categorie 8: een taakstraf van 2000 uur
 
-1. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen richtlijnen omtrent de duur, aard of geldigheid van opgelegde sancties, indien de omstandigheden van het geval daartoe aanleiding geven.
-2. De beoordeling of een gedraging, handeling of nalaten onder een specifiek delict of feit zoals omschreven in deze APV valt, berust uitsluitend bij de daartoe bevoegde staffleden.
-3. Indien een betrokkene herhaaldelijk wordt gesanctioneerd voor hetzelfde of een soortgelijk delict, kan dit worden aangemerkt als een strafverzwarende omstandigheid. In dat geval is een stafflid bevoegd een zwaardere sanctie op te leggen dan gebruikelijk.
-4. Indien een gedraging niet expliciet in deze APV is opgenomen, doch naar het oordeel van de staff als strijdig met de doelstellingen, regels of integriteit van CombatGain wordt beschouwd, kan alsnog een passende sanctie worden opgelegd. Een dergelijke beslissing wordt uitsluitend genomen na overleg met ten minste twee staffleden.
-5. Staffleden zijn bevoegd een tijdelijke preventieve schorsing, hierna te noemen een safeban, op te leggen indien nader onderzoek noodzakelijk wordt geacht naar mogelijke overtredingen of andere relevante omstandigheden. Een safeban heeft uitsluitend tot doel de voortgang van het onderzoek te waarborgen en vormt op zichzelf geen vaststelling van schuld.
-6. Indien een betrokkene eenzelfde feit of overtreding meermalen pleegt, kan bij iedere volgende overtreding een zwaardere sanctie worden opgelegd overeenkomstig het beginsel van recidive.
+
+1. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen sanctierichtlijnen, indien de omstandigheden van het geval daartoe aanleiding geven.
+2. De beoordeling of een gedraging, handeling of nalaten valt onder een in deze APV omschreven feit of delict, berust uitsluitend bij de daartoe bevoegde staffleden.
+3. Indien een betrokkene herhaaldelijk wordt gesanctioneerd voor hetzelfde of een soortgelijk feit, kan dit worden aangemerkt als een strafverzwarende omstandigheid. In dat geval is een stafflid bevoegd een zwaardere sanctie op te leggen.
+4. Indien een gedraging niet expliciet in deze APV is opgenomen, maar naar het oordeel van de staff strijdig is met de regels, doelstellingen of integriteit van CombatGain, kan alsnog een passende sanctie worden opgelegd. Een dergelijke beslissing wordt uitsluitend genomen na overleg met ten minste twee staffleden.
+5. Staffleden zijn bevoegd een tijdelijke preventieve schorsing, hierna te noemen een *safeban*, op te leggen indien nader onderzoek noodzakelijk wordt geacht. Een safeban heeft uitsluitend tot doel de voortgang van een onderzoek te waarborgen en vormt geen vaststelling van schuld.
+6. Indien een betrokkene eenzelfde feit of overtreding herhaaldelijk pleegt, kan bij iedere volgende overtreding een zwaardere sanctie worden opgelegd overeenkomstig het beginsel van recidive.
+7. De veoordeling van feiten, omstandigheden en bewijsmiddelen geschiedt naar redelijkheid en billijkheid door de daartoe bevoegde staffleden.
+8. Tegen beslissingen van staffleden kan uitsluitend bezwaar worden gemaakt overeenkomstig de binnen CombatGain geldende bezwaar- en klachtenprocedure.
+
 
 -----
 ## Algemeen beleid 
