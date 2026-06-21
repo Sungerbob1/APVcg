@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening CombatGain test
+# Algemene Plaatselijke Verordening CombatGain
 ## <center> Welkom bij de officiële <b>CombatGain APV</b> .
  <center> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </center>
 
@@ -26,14 +26,14 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 ### 1.3 Sanctiecategorieën
 
 1. De straffen zijn verdeeld in de volgende categorieën.
-    * Categorie 1: 50 uur taakstraf
-    * Categorie 2: 100 uur taakstraf 
-    * Categorie 3: 250 uur taakstraf  
-    * Categorie 4: 400 uur taakstraf 
+    * Categorie 1: een waarschuwing 
+    * Categorie 2: een ban van 2 uur + 10 uur taakstraf 
+    * Categorie 3: een ban van 12 uur + 75 uur taakstraf 
+    * Categorie 4: een ban van 1 dag + 100 uur taakstraf
     * Categorie 5: een ban 2 dagen + 150 uur taakstraf
     * Categorie 6: een ban 1 week + 175 uur taakstraf
     * Categorie 7: een ban 2 weken + 200 uur taakstraf
-    * Categorie 8: 1000 uur taakstraf 
+    * Categorie 8: een ban van 1 maand + 300 uur taakstraf
     * Categorie 9: een permanente ban
     * Categorie 10: een account wipe
     * Categorie 11: een permanente ban & discord ban
@@ -60,7 +60,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 10. Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
 11. Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is. 
 
-> Sanctie ⇨ 50 uur taakstraf 
+> Sanctie ⇨ Boete van €70.000 + 30 uur taakstraf 
 
 ### Artikel 2 - Cheats en externe software 
 1. Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
@@ -69,9 +69,9 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 4. Je kan ten alle tijden worden gesanctioneerd na aanleiding van ontvangen videobeelden. 
 5. Een zogenoemde crosshair is ook niet toegestaan. 
 
-> Sanctie ⇨ Categorie 4: 100 uur taakstraf (Crosshair gebruik)
+> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf (Crosshair gebruik)
 
-> Sanctie ⇨ Categorie 9 : een permanente verbanning (Overige delicten binnen dit artikel)
+> Sanctie ⇨ Categorie 9 : een permanente ban (Overige delicten binnen dit artikel)
 
 
 ### Artikel 3 - Exploits en bugmisbruik
@@ -81,7 +81,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
     * Misbruik maken van het F6 menu voor overheid en/of groeperingen
     * Monkeypunchen
 
-> Sanctie ⇨ Categorie 8: 750 uur taakstraf (Indien economisch delict, wordt dit verhoogd met 50%)
+> Sanctie ⇨ Categorie 8: een ban van 1 maand + 300 uur taakstraf
 
 ### Artikel 4 - Metagamen en externe communicatie
 1. Gekregen informatie OOC mag je niet gebruiken IC. 
@@ -91,13 +91,13 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
     * Je niet aan het streamen bent. 
 3. Voor een overvalscenario mogen via Discord aanvullende documenten of bijlagen worden gestuurd, deze documenten stuur je naar de onderhandelaar van de desbetreffende overval. 
 
-> Sanctie: ⇨ Categorie 3: Een taakstraf van 100 uur
+> Sanctie: ⇨ Categorie 3: een ban van 12 uur + 75 uur taakstraf 
 
 ### Artikel 5 - Uitlokken van overheid of criminelen
 1. Het bewust uitlokken van politie met de bedoeling hen te irriteren, bezig te houden of zonder geldige roleplay tot actie te dwingen, wordt gezien als copbaiting.
 2. Het bewust uitlokken van officiële of onofficiële gangleden zonder geldige vorm van roleplay wordt gezien als crime baiting.
 
-> Sanctie: ⇨ Categorie 3: Een taakstraf van 50 uur. 
+> Sanctie: ⇨ Categorie 3: een ban van 12 uur + 75 uur taakstraf 
 
 ### Artikel 6 - Combatlogging & combatstashing
 1. Het verlaten van de stad tijdens een lopend roleplayscenario zonder geldige reden of zonder toestemming wordt gezien als combatlogging.
@@ -109,8 +109,9 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 7. Indien je als overheidsmedewerker criminele items hebt afgenomen dien je 5 minuten te wachten voordat je het HB in mag rijden. 
 8. Indien jij bijvoorbeeld een wapen in een dashboard stopt en je auto op slot zet, valt dit ook onder combatstashen. 
 
-> Sanctie: ⇨ Categorie 4: Een taakstraf van 250 uur
-
+> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + inventory wordt gecleared (Combatlogging)
+>
+> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + items worden ingenomen (Combatstashing)
 
 
 ### Artikel 7 - GTA Driving Style 
@@ -124,7 +125,7 @@ Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en 
 5. Politieagenten die in een SIV-voertuig rijden, zijn bevoegd om pits uit te voeren met een maximale snelheid van 120 km/h. 
 LET OP: <b>Pitten is geen beuken</b>
 
-> Sanctie: ⇨ Een taakstraf van 50 uur 
+> Sanctie: ⇨ Categorie 1: een waarschuwing 
 
 ### Artikel 8 - No Value of Life
 Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. Er wordt van je verwacht dat je realistisch handelt op levensbedreigende situaties, enkele voorbeelden hiervan zijn: 
@@ -141,7 +142,7 @@ Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. 
 * Het is geen No Value Of Life indien je wordt gehandsupped buiten shoutingrange.
 * Op het moment dat je gehandsupped wordt, mag je niet gedwongen worden om de NPC met de drugsopslag te legen. 
 
-> Sanctie ⇨ Boete van €65.000 + 200 uur taakstraf 
+> Sanctie ⇨ Boete van €65.000 + 20 uur taakstraf 
 
 
 ### Artikel 9 - Hoorbaarheid
@@ -151,7 +152,7 @@ Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. 
 4. Het is alleen toegestaan je stem te verlagen; het verhogen van je stem is niet toegestaan.
 5. Het misbruiken van je microfoon is niet toegestaan, denk aan ear-rapen, blazen, schreeuwen, muziek door je microfoon draaien, storende soundpads. 
 
-> Sanctie ⇨ Een taakstraf van 50 uur. 
+> Sanctie ⇨ Categorie 1 : Een waarschuwing
 
 ### Artikel 10 - Reports en meldingen
 1. Het is niet toegestaan om overmatig reports of tickets aan te maken; 
