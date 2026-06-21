@@ -1,41 +1,41 @@
 :root {
-    --md-primary-fg-color: #a01828;
-    --md-primary-fg-color--light: #c4253a;
-    --md-primary-fg-color--dark: #7a1320;
+    --md-primary-fg-color: #ef4655;
+    --md-primary-fg-color--light: #f47683;
+    --md-primary-fg-color--dark: #c4283a;
 
-    --md-accent-fg-color: #a01828;
+    --md-accent-fg-color: #ef4655;
 }
 
 /* Header */
 .md-header {
-    background-color: #a01828 !important;
+    background-color: #ef4655 !important;
 }
 
 .md-tabs {
-    background-color: #7a1320 !important;
+    background-color: #c4283a !important;
 }
 
 /* Links */
 .md-typeset a,
 .md-nav__link--active,
 .md-sidebar .md-nav__link--active {
-    color: #a01828 !important;
+    color: #ef4655 !important;
 }
 
 .md-nav__link:hover,
 .md-sidebar .md-nav__link:hover,
 .md-typeset a:hover {
-    color: #c4253a !important;
+    color: #f47683 !important;
 }
 
 /* Search bar */
 .md-search__form {
-    background-color: #7a1320 !important;
+    background-color: #c4283a !important;
 }
 
 /* Scrollbars */
 html {
-    scrollbar-color: #a01828 #1a1a1a;
+    scrollbar-color: #ef4655 #1a1a1a;
 }
 
 *::-webkit-scrollbar {
@@ -47,15 +47,15 @@ html {
 }
 
 *::-webkit-scrollbar-thumb {
-    background-color: #a01828 !important;
+    background-color: #ef4655 !important;
     border-radius: 10px;
 }
 
 *::-webkit-scrollbar-thumb:hover {
-    background-color: #7a1320 !important;
+    background-color: #c4283a !important;
 }
 .md-sidebar--secondary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
-    background: #a01828 !important;
+    background: #ef4655 !important;
 }
 
 .md-sidebar--secondary .md-sidebar__scrollwrap::-webkit-scrollbar {
@@ -66,7 +66,7 @@ html {
     background: transparent !important;
 }
 .md-sidebar__scrollwrap {
-    scrollbar-color: #a01828 transparent !important;
+    scrollbar-color: #ef4655 transparent !important;
 }
 
 .md-sidebar__scrollwrap::-webkit-scrollbar {
@@ -74,7 +74,7 @@ html {
 }
 
 .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
-    background-color: #a01828 !important;
+    background-color: #ef4655 !important;
     border-radius: 999px !important;
 }
 
@@ -98,27 +98,27 @@ body::before {
     z-index: -1;
 }
 
-/* Wijnrood-thema voor danger admonities (artikel-spoilers) */
+/* Koraalrood-thema voor danger admonities (artikel-spoilers) */
 .md-typeset .admonition.danger,
 .md-typeset details.danger {
-  border-color: #a01828;
+  border-color: #ef4655;
   background-color: #fdf2f3;
 }
 
 .md-typeset .admonition.danger > .admonition-title,
 .md-typeset details.danger > summary {
-  background-color: #f3d4d8;
-  border-color: #a01828;
+  background-color: #f9d7da;
+  border-color: #ef4655;
 }
 
 .md-typeset .admonition.danger > .admonition-title::before,
 .md-typeset details.danger > summary::before {
-  background-color: #a01828;
+  background-color: #ef4655;
 }
 
-/* Pijltje van het uitklap-icoon ook in wijnrood */
+/* Pijltje van het uitklap-icoon ook in koraalrood */
 .md-typeset details.danger > summary::after {
-  color: #a01828;
+  color: #ef4655;
 }
 
 /* Witte gloed/achtergrond achter de sidebar-navigatie weghalen */
@@ -144,45 +144,45 @@ body::before {
   box-shadow: none !important;
 }
 
-/* Wijnrood-thema voor alle tabellen in het document */
+/* Koraalrood-thema voor alle tabellen in het document */
 .md-typeset table:not([class]) {
-  border: 1px solid #a01828;
+  border: 1px solid #ef4655;
 }
 
 .md-typeset table:not([class]) th {
-  background-color: #a01828;
+  background-color: #c4283a;
   color: #ffffff;
 }
 
 .md-typeset table:not([class]) td {
   background-color: #fdf2f3;
-  border-color: #f3d4d8;
+  border-color: #f9d7da;
 }
 
 /* Subtiele afwisseling tussen rijen voor leesbaarheid */
 .md-typeset table:not([class]) tr:nth-child(even) td {
-  background-color: #f8e2e5;
+  background-color: #fbe4e6;
 }
 
 /* Hover-effect op rijen */
 .md-typeset table:not([class]) tr:hover td {
-  background-color: #f3d4d8;
+  background-color: #f9d7da;
 }
 
-/* Wijnrood-thema voor quote-admonities (intro-tekst) */
+/* Koraalrood-thema voor quote-admonities (intro-tekst) */
 .md-typeset .admonition.quote,
 .md-typeset details.quote {
-  border-color: #a01828;
+  border-color: #ef4655;
   background-color: #fdf2f3;
 }
 
 .md-typeset .admonition.quote > .admonition-title,
 .md-typeset details.quote > summary {
-  background-color: #f3d4d8;
-  border-color: #a01828;
+  background-color: #f9d7da;
+  border-color: #ef4655;
 }
 
 .md-typeset .admonition.quote > .admonition-title::before,
 .md-typeset details.quote > summary::before {
-  background-color: #a01828;
+  background-color: #ef4655;
 }
