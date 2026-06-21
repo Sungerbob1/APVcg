@@ -25,12 +25,12 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 1. De sancties die op grond van deze APV kunnen worden opgelegd, zijn ingedeeld in de volgende categorieën.
     * Categorie 1: een taakstraf van 50 uur
     * Categorie 2: een taakstraf van 100 uur
-    * Categorie 3: een taakstraf van 250 uur
-    * Categorie 4: een taakstraf van 500 uur
-    * Categorie 5: een taakstraf van 800 uur
-    * Categorie 6: een taakstraf van 1200 uur
-    * Categorie 7: een taakstraf van 1600 uur
-    * Categorie 8: een taakstraf van 2000 uur
+    * Categorie 3: een taakstraf van 180 uur
+    * Categorie 4: een taakstraf van 300 uur
+    * Categorie 5: een taakstraf van 400 uur
+    * Categorie 6: een taakstraf van 800 uur
+    * Categorie 7: een taakstraf van 100 uur
+    * Categorie 8: een taakstraf van 1500 uur
     * Categorie 9: een permanente verbanning
     * Categoerie 10: een permanente verbanning inclusief een accountwipe
 > 
@@ -258,21 +258,21 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 2. (Ex)overheidsmedewerkers moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere overheidsdienst mogen worden aangenomen.
 3. Deze wachttijd geldt ook als men van overheid naar criminele organisatie gaat en visa versa. 
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Categorie 1 
 
 
 ### Artikel 22 - New Life Rule
 1. Wanneer je karakter overlijdt, wordt verwacht dat je de laatste roleplay vergeet en deze informatie niet opnieuw gebruikt.
 2. Als jouw karakter is komen te overlijden wordt er verwacht dat jij alle roleplay voor jouw dood vergeten bent. Zoals: locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden, dan kan je enkel de informatie gebruiken die je hoort. LET OP: Je mag niet terug aansluiten bij het scenario waarin je bent overleden.
 
-> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf
+> Sanctie ⇨ Categorie 2
 
 ### Artikel 23 - Campen van locaties
 1. Het campen van belangrijke locaties is verboden wanneer dit gebeurt met het doel spelers op te wachten, te rippen, te overvallen of zonder geldige roleplay te confronteren.
 2. Onder belangrijke locaties vallen onder andere het politiehoofdbureau, het ziekenhuis, gangterreinen en andere drukbezochte of kwetsbare plekken.
 3. Een locatie korte tijd observeren binnen een lopend roleplayscenario kan toegestaan zijn, zolang dit realistisch blijft en niet verandert in langdurig opwachten zonder actieve roleplay.
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Categorie 1 
 
 ### Artikel 24 - IRL Trading
 1. IRL trading is verboden. Hieronder valt het kopen, verkopen, ruilen of aanbieden van in game geld, items, wapens, voertuigen, accounts, diensten, informatie of voordelen voor echt geld of andere waarde buiten de server.
@@ -282,7 +282,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 5. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaan. Dit geldt voor ALLE goederen.
 6. Het is toegestaan om een aankoop in de Tebex store te doen voor een ander. 
 
-> Sanctie ⇨ Categorie 9 : een permanente ban 
+> Sanctie ⇨ Categorie 9
 
 ### Artikel 25 - Corruptie
 1. Het is voor een overheidsmedewerker niet toegestaan om illegale activiteiten te doen. 
@@ -292,7 +292,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
     * Je maakt een report aan om de spullen in te laten nemen. 
     * Je zorgt ervoor dat je deze items in de bewijskluis stopt bij Politie CombatGain.
 
-> Sanctie ⇨ Categorie 8: een ban van 1 maand + 300 uur taakstraf
+> Sanctie ⇨ Categorie 8
 
 ### Artikel 26 - Overvallen
 1. Het is toegestaan om overal hostages te pakken. 
@@ -302,14 +302,14 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 4. Het is niet toegestaan een hostage te rippen. 
 5. Het is niet toegestaan om een zogenoemde friendly hostage te nemen. 
 
-> Sanctie ⇨ Categorie 7: een ban 2 weken + 200 uur taakstraf + ontheffing van dienstverband
+> Sanctie ⇨ Categorie 3
 
 ### Artikel 27 - Ontvoeren van overheidsmedewerkers
 1. Ambulancemedewerkers mogen niet worden ontvoerd wanneer zij zichtbaar in dienst zijn.
 2. Per 3 agenten in dienst mag er 1 agent gegijzeld worden. 
 3. Agenten die bezig zijn met een training mogen niet worden gegijzeld. Er moet zichtbaar zijn dat zij in een training zitten. 
 
-> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf
+> Sanctie ⇨ Categorie 2
 
 
 ### Artikel 28 - Helikopters en vliegtuigen
@@ -318,17 +318,19 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 3. Het is niet toegestaan om onrealistisch te landen, bijvoorbeeld met een helikopter midden op Blokkenpark, midden op straat omdat je naar een winkel wilt, of op andere plekken waar dit in realistische roleplay niet logisch is.
 4. Gebruik je gezonde verstand bij opstijgen, landen, laagvliegen en het vervoeren van personen of goederen.
 
+> Sanctie ⇨ Categorie 1 
+
 ### Artikel 29 - Minigames 
 1. Het is tijdens minigames verboden om samen te werken met andere spelers
 2. Het is toegestaan om tijdens minigames in een call te zitten.  
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Categorie 1 
 
 ### Artikel 30 - Remakes 
 1. Het is ten strengste verboden om serverbestanden te dumpen, na te maken of op welke manier dan ook te verspreiden zonder uitdrukkelijke toestemming.
 2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
 
-> Sanctie ⇨ Categorie 11 : Een permanente ban & discord ban
+> Sanctie ⇨ Categorie 10
 
 ---------------------
 # Slotbepaling 
