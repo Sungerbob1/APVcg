@@ -84,12 +84,6 @@ html {
 .md-sidebar__scrollwrap {
     overflow-y: overlay !important;
 }
-body {
-    background-image: url("/APVcg/img/background.png");
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-}
 body::before {
     content: "";
     position: fixed;
@@ -101,4 +95,26 @@ body::before {
 
     opacity: 0.25; /* 25% zichtbaar */
     z-index: -1;
+}
+/* Bordeaux-thema voor danger admonities (artikel-spoilers) */
+.md-typeset .admonition.danger,
+.md-typeset details.danger {
+  border-color: #7a1f2b;
+  background-color: #fdf2f3;
+}
+
+.md-typeset .admonition.danger > .admonition-title,
+.md-typeset details.danger > summary {
+  background-color: #f3d4d8;
+  border-color: #7a1f2b;
+}
+
+.md-typeset .admonition.danger > .admonition-title::before,
+.md-typeset details.danger > summary::before {
+  background-color: #7a1f2b;
+}
+
+/* Pijltje van het uitklap-icoon ook in bordeaux */
+.md-typeset details.danger > summary::after {
+  color: #7a1f2b;
 }
