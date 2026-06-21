@@ -1,41 +1,41 @@
 :root {
-    --md-primary-fg-color: #7a1f2b;
-    --md-primary-fg-color--light: #9c3340;
-    --md-primary-fg-color--dark: #5c1620;
+    --md-primary-fg-color: #ff0000;
+    --md-primary-fg-color--light: #ff3333;
+    --md-primary-fg-color--dark: #cc0000;
 
-    --md-accent-fg-color: #7a1f2b;
+    --md-accent-fg-color: #ff0000;
 }
 
 /* Header */
 .md-header {
-    background-color: #7a1f2b !important;
+    background-color: #ff0000 !important;
 }
 
 .md-tabs {
-    background-color: #5c1620 !important;
+    background-color: #cc0000 !important;
 }
 
 /* Links */
 .md-typeset a,
 .md-nav__link--active,
 .md-sidebar .md-nav__link--active {
-    color: #7a1f2b !important;
+    color: #ff0000 !important;
 }
 
 .md-nav__link:hover,
 .md-sidebar .md-nav__link:hover,
 .md-typeset a:hover {
-    color: #9c3340 !important;
+    color: #ff3333 !important;
 }
 
 /* Search bar */
 .md-search__form {
-    background-color: #5c1620 !important;
+    background-color: #cc0000 !important;
 }
 
 /* Scrollbars */
 html {
-    scrollbar-color: #7a1f2b #1a1a1a;
+    scrollbar-color: #ff0000 #1a1a1a;
 }
 
 *::-webkit-scrollbar {
@@ -47,15 +47,15 @@ html {
 }
 
 *::-webkit-scrollbar-thumb {
-    background-color: #7a1f2b !important;
+    background-color: #ff0000 !important;
     border-radius: 10px;
 }
 
 *::-webkit-scrollbar-thumb:hover {
-    background-color: #5c1620 !important;
+    background-color: #cc0000 !important;
 }
 .md-sidebar--secondary .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
-    background: #7a1f2b !important;
+    background: #ff0000 !important;
 }
 
 .md-sidebar--secondary .md-sidebar__scrollwrap::-webkit-scrollbar {
@@ -66,7 +66,7 @@ html {
     background: transparent !important;
 }
 .md-sidebar__scrollwrap {
-    scrollbar-color: #7a1f2b transparent !important;
+    scrollbar-color: #ff0000 transparent !important;
 }
 
 .md-sidebar__scrollwrap::-webkit-scrollbar {
@@ -74,7 +74,7 @@ html {
 }
 
 .md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
-    background-color: #7a1f2b !important;
+    background-color: #ff0000 !important;
     border-radius: 999px !important;
 }
 
@@ -84,7 +84,6 @@ html {
 .md-sidebar__scrollwrap {
     overflow-y: overlay !important;
 }
-
 body::before {
     content: "";
     position: fixed;
@@ -97,7 +96,6 @@ body::before {
     opacity: 0.25; /* 25% zichtbaar */
     z-index: -1;
 }
-
 /* Bordeaux-thema voor danger admonities (artikel-spoilers) */
 .md-typeset .admonition.danger,
 .md-typeset details.danger {
@@ -120,7 +118,6 @@ body::before {
 .md-typeset details.danger > summary::after {
   color: #7a1f2b;
 }
-
 /* Witte gloed/achtergrond achter de sidebar-navigatie weghalen */
 .md-sidebar,
 .md-sidebar__scrollwrap,
@@ -136,7 +133,6 @@ body::before {
   backdrop-filter: none !important;
   -webkit-backdrop-filter: none !important;
 }
-
 /* Witte achtergrond achter de sidebar-titel ("Rework APV test") weghalen */
 .md-nav__title {
   background: transparent !important;
@@ -144,7 +140,7 @@ body::before {
   box-shadow: none !important;
 }
 
-/* Bordeaux-thema voor alle tabellen */
+/* Roodachtig thema voor alle tabellen in het document */
 .md-typeset table:not([class]) {
   border: 1px solid #7a1f2b;
 }
@@ -167,20 +163,4 @@ body::before {
 /* Hover-effect op rijen */
 .md-typeset table:not([class]) tr:hover td {
   background-color: #f3d4d8;
-}
-/* Bordeaux-thema voor quote-admonities (intro-tekst) */
-.md-typeset .admonition.quote,
-.md-typeset details.quote {
-  border-color: #7a1f2b;
-}
-
-.md-typeset .admonition.quote > .admonition-title,
-.md-typeset details.quote > summary {
-  background-color: #f3d4d8;
-  border-color: #7a1f2b;
-}
-
-.md-typeset .admonition.quote > .admonition-title::before,
-.md-typeset details.quote > summary::before {
-  background-color: #7a1f2b;
 }
