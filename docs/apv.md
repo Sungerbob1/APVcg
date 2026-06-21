@@ -2,26 +2,29 @@
 ## <center> Welkom bij de officiële <b>CombatGain APV</b> .
  <center> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </center>
 
-  
-In de Algemene Plaatselijke Verordening van CombatGain, hierna genoemd APV,
-zijn de wet- en regelgevingen die gelden binnen de gehele stad CombatGain opgenomen.
-Bij het intrekken binnen CombatGain gaat u automatisch akkoord met deze wet- en regelgeving.</center>
+# Algemene Plaatselijke Verordening CombatGain
 
- <center> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </center>
+In de onderhavige Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: **de APV**, zijn de binnen de stad CombatGain geldende regels, voorschriften en bepalingen vastgelegd. Door het betreden van CombatGain verklaart iedere gebruiker zich bekend met en akkoord met de inhoud van deze APV, alsmede met de daaruit voortvloeiende rechten en verplichtingen.
 
-## Algemene bepalingen
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 1.1 Reikwijdte en geldigheid
+# Hoofdstuk 1 – Algemene Bepalingen
 
-1. Deze Algemene Plaatselijke Verordening, hierna APV, geldt als aanvullend regelwerk op het Nederlands recht binnen het eiland, de gemeente en de stad CombatGain.
-2. De APV biedt een richtlijn voor bestraffing binnen roleplay en vormt daarnaast de basis voor afhandeling buiten roleplay om.
+## Artikel 1.1 – Reikwijdte en toepasselijkheid
 
-### 1.2 Behandeling
+1. Deze Algemene Plaatselijke Verordening, hierna te noemen: **APV**, vormt een aanvullend regelgevend kader naast het Nederlandse recht en is van toepassing binnen het gehele grondgebied van het eiland, de gemeente en de stad CombatGain.
 
-1. Wanneer regelgeving wijzigt nadat een feit is gepleegd, wordt de voor de betrokkene meest gunstige bepaling toegepast.
-2. Een stafflid mag niet meebeslissen over zaken die betrekking hebben op zichzelf. 
-3. Voor management, adviseurs en eigenaren kan op lid 2 een uitzondering worden gemaakt.
-4. Wanneer aantoonbaar niet de waarheid tegen staffleden wordt verteld, kan dit strafverzwarend meetellen. 
+2. De APV dient als leidraad voor de beoordeling en sanctionering van overtredingen binnen roleplay-situaties en vormt tevens de grondslag voor de afhandeling van overtredingen en geschillen buiten roleplay om.
+
+## Artikel 1.2 – Procedurele bepalingen
+
+1. Indien na het plegen van een overtreding een wijziging van regelgeving plaatsvindt, wordt de bepaling toegepast die voor de betrokkene het meest gunstig uitwerkt.
+
+2. Een stafflid onthoudt zich van deelname aan de beoordeling, besluitvorming of afhandeling van zaken waarbij hij of zij direct of indirect als belanghebbende is betrokken.
+
+3. Het bepaalde in het tweede lid kan, indien zwaarwegende organisatorische belangen dit noodzakelijk maken, buiten toepassing worden gelaten voor leden van het management, adviseurs en eigenaren.
+
+4. Indien wordt vastgesteld dat een betrokkene opzettelijk onjuiste, misleidende of onvolledige informatie verstrekt aan staffleden, kan dit bij de beoordeling van de zaak als strafverzwarende omstandigheid worden aangemerkt.
 
 ### 1.3 Sanctiecategorieën
 
