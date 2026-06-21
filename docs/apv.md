@@ -333,6 +333,10 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 ---------------------
 # Slotbepaling 
 
-Deze Algemene Plaatselijke Verordening is vastgesteld door het beheer van CombatGain en is uitsluitend van toepassing binnen de serveromgeving van CombatGain.
+## Slotbepalingen
 
-Het beheer behoudt zich het recht voor de inhoud van deze verordening te allen tijde te wijzigen, aan te vullen of buiten toepassing te verklaren indien de omstandigheden daartoe aanleiding geven.
+1. Deze Algemene Plaatselijke Verordening, hierna te noemen de APV, is vastgesteld door het beheer van CombatGain en is uitsluitend van toepassing binnen de serveromgeving van CombatGain.
+2. Het beheer van CombatGain behoudt zich het recht voor deze APV te allen tijde te wijzigen, aan te vullen, te verduidelijken of buiten toepassing te verklaren, indien de omstandigheden van het geval daartoe aanleiding geven.
+3. In gevallen waarin deze APV niet voorziet, beslist het beheer van CombatGain naar redelijkheid en billijkheid.
+4. Aan de inhoud van deze APV kunnen geen rechten worden ontleend die strijdig zijn met besluiten van het beheer van CombatGain.
+5. Deze APV treedt in werking op het moment van publicatie en blijft van kracht totdat zij geheel of gedeeltelijk wordt vervangen of ingetrokken.
