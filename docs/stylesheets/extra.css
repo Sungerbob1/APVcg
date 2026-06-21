@@ -186,3 +186,42 @@ body::before {
 .md-typeset details.quote > summary::before {
   background-color: #ef4655;
 }
+/* ===== Dark mode fixes voor leesbaarheid admonities ===== */
+
+/* Titelbalk-tekst van danger/quote admonities altijd donker, ook in dark mode */
+[data-md-color-scheme="slate"] .md-typeset .admonition.danger > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset details.danger > summary,
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset details.quote > summary {
+  color: #2b0a0e !important;
+  background-color: #f9d7da !important;
+}
+
+/* Pijltje (uitklap-icoon) zichtbaar houden in dark mode */
+[data-md-color-scheme="slate"] .md-typeset details.danger > summary::after,
+[data-md-color-scheme="slate"] .md-typeset details.quote > summary::after {
+  color: #2b0a0e !important;
+}
+
+/* Body van de admonities: tekst donker houden op de lichtroze achtergrond */
+[data-md-color-scheme="slate"] .md-typeset .admonition.danger,
+[data-md-color-scheme="slate"] .md-typeset details.danger,
+[data-md-color-scheme="slate"] .md-typeset .admonition.quote,
+[data-md-color-scheme="slate"] .md-typeset details.quote {
+  color: #2b0a0e;
+  background-color: #fdf2f3;
+}
+
+/* Tabellen: zelfde probleem, headers en cellen forceren naar leesbare kleuren */
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) td {
+  color: #2b0a0e !important;
+  background-color: #fdf2f3 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) tr:nth-child(even) td {
+  background-color: #fbe4e6 !important;
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  color: #ffffff !important;
+}
