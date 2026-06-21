@@ -52,7 +52,6 @@
 
 #### ℹ️ Algemene bepalingen sanctiestelsel
 
-??? danger "💡 Uitleg"
     1. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen sanctierichtlijnen, indien de omstandigheden van het geval daartoe aanleiding geven.
     2. De beoordeling of een gedraging, handeling of nalaten valt onder een in deze APV omschreven feit of delict, berust uitsluitend bij de daartoe bevoegde staffleden.
     3. Indien een betrokkene herhaaldelijk wordt gesanctioneerd voor hetzelfde of een soortgelijk feit, kan dit worden aangemerkt als een strafverzwarende omstandigheid. In dat geval is een stafflid bevoegd een zwaardere sanctie op te leggen.

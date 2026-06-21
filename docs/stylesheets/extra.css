@@ -118,3 +118,18 @@ body::before {
 .md-typeset details.danger > summary::after {
   color: #7a1f2b;
 }
+/* Witte gloed/achtergrond achter de sidebar-navigatie weghalen */
+.md-sidebar,
+.md-sidebar__scrollwrap,
+.md-sidebar__inner,
+.md-nav {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Eventuele blur/backdrop-filter die het vervagingseffect veroorzaakt */
+.md-sidebar {
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
