@@ -84,3 +84,9 @@ html {
 .md-sidebar__scrollwrap {
     overflow-y: overlay !important;
 }
+body {
+    background-image: url("../assets/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
