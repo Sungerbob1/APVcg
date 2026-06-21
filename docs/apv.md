@@ -47,7 +47,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 
 -----
 ## Algemene voorschriften 
-### Artikel 1 - FailRP en Powergaming
+??? info danger "Artikel 1 - FailRP en Powergaming"
 1. Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP.
 2. Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming.
 3. Niet realistisch reageren indien je bent beschoten, bijvoorbeeld gaan rennen en/of springen. 
