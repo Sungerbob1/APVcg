@@ -1,19 +1,32 @@
-# Wetgeving CombatGain
+# 📜 Wetgeving CombatGain
 
-Welkom bij de wet- en regelgeving van CombatGain. De verschillende documenten die onze wet- en regelgeving omvat zijn opgesteld om de speelervaring voor iedereen zo leuk mogelijk te houden.
+### Officiële wet- en regelgeving van CombatGain
 
-Het is zaak dat iedereen die deelneemt aan CombatGain op de hoogte is van de regels en wetten.
+---
 
-De volgende documenten worden behandeld op deze website:
+!!! quote ""
+    Welkom bij de wet- en regelgeving van CombatGain. De verschillende documenten die onze wet- en regelgeving omvat, zijn opgesteld om de speelervaring voor iedereen zo leuk mogelijk te houden. Het is zaak dat iedereen die deelneemt aan CombatGain op de hoogte is van de regels en wetten.
 
-- De APV is een verzameling van regels en richtlijnen die te maken hebben met zaken buiten roleplay.
-- Het wetboek van CombatGain omvat alle wetten in de roleplay.
-- De overige documenten zijn van toepassing op verschillende in-game zaken, zoals voertuigeisen en dergelijke.
+---
 
-## Officiële discord servers
+## 📚 Welke documenten vind je hier?
 
-| *Titel* | *Omschrijving* | *Uitnodiging* |
+| | Document | Omschrijving |
+|:---:|---|---|
+| ⚖️ | **[Algemene Plaatselijke Verordening](APV.md)** | Een verzameling van regels en richtlijnen die te maken hebben met zaken buiten roleplay. |
+| 📖 | **Wetboek** | Omvat alle wetten die gelden binnen de roleplay. |
+| 🚗🏝️ | **Overige documenten** | Van toepassing op specifieke in-game zaken, zoals voertuigeisen, eilandregelgeving en douanegebieden. |
+
+---
+
+## 💬 Officiële Discord servers
+
+| Server | Omschrijving | Uitnodiging |
 |---|---|:---:|
-|CombatGain Roleplay| Discord server van CombatGain | [Klik hier](https://discord.gg/7azsP8FMag) |
-|CombatGain Support| Alle support gerelateerde zaken worden hier geregeld | [Klik hier](https://discord.gg/YwEgxYpUjT) |
-|CombatGain Overheid| Verzamelplaats van alle overheidsorganisaties | [Klik hier](https://discord.gg/DwGQAv5zaT) |
+| 🎮 **CombatGain Roleplay** | De hoofdserver van CombatGain | [Join →](https://discord.gg/7azsP8FMag) |
+| 🛠️ **CombatGain Support** | Alle support gerelateerde zaken worden hier geregeld | [Join →](https://discord.gg/YwEgxYpUjT) |
+| 🏛️ **CombatGain Overheid** | Verzamelplaats van alle overheidsorganisaties | [Join →](https://discord.gg/DwGQAv5zaT) |
+
+---
+
+<p align="center"><sub>© CombatGain — Lees de regelgeving aandachtig door voor je deelneemt.</sub></p>
