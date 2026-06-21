@@ -13,7 +13,39 @@
 
 1. [🏛️ Inleiding](#inleiding)
 2. [⚖️ Sanctiestelsel](#sanctiestelsel)
-3. [🔚 Slotbepalingen](#slotbepalingen)
+3. [📋 Algemene voorschriften](#algemene-voorschriften)
+   - [🎭 Artikel 1 — FailRP en Powergaming](#artikel-1-failrp-en-powergaming)
+   - [🖥️ Artikel 2 — Cheats](#artikel-2-cheats)
+   - [🐞 Artikel 3 — Exploits en bugmisbruik](#artikel-3-exploits-en-bugmisbruik)
+   - [🗣️ Artikel 4 — Metagamen en externe communicatie](#artikel-4-metagamen-en-externe-communicatie)
+   - [🎣 Artikel 5 — Uitlokken van overheid of criminelen](#artikel-5-uitlokken-van-overheid-of-criminelen)
+   - [🏃 Artikel 6 — Combatlogging & combatstashing](#artikel-6-combatlogging-combatstashing)
+   - [🚗 Artikel 7 — GTA Driving Style](#artikel-7-gta-driving-style)
+   - [❤️ Artikel 8 — No Value of Life](#artikel-8-no-value-of-life)
+   - [🎙️ Artikel 9 — Hoorbaarheid](#artikel-9-hoorbaarheid)
+   - [📝 Artikel 10 — Reports en meldingen](#artikel-10-reports-en-meldingen)
+   - [🎬 Artikel 11 — OOC](#artikel-11-ooc)
+   - [👤 Artikel 12 — Accounts](#artikel-12-accounts)
+   - [👮 Artikel 13 — Impersonatie van overheidsmedewerkers](#artikel-13-impersonatie-van-overheidsmedewerkers)
+   - [🚙 Artikel 14 — VDM (Vehicle Deathmatch)](#artikel-14-vdm-vehicle-deathmatch)
+   - [🔫 Artikel 15 — RDM (Random Deathmatch)](#artikel-15-rdm-random-deathmatch)
+   - [💰 Artikel 16 — Rippen](#artikel-16-rippen)
+   - [💬 Artikel 17 — Taalgebruik](#artikel-17-taalgebruik)
+   - [🪙 Artikel 18 — Scammen en oplichting](#artikel-18-scammen-en-oplichting)
+   - [🔊 Artikel 19 — Stemherkenning](#artikel-19-stemherkenning)
+   - [📺 Artikel 20 — Streamsniping](#artikel-20-streamsniping)
+   - [🔁 Artikel 21 — Jobhoppen](#artikel-21-jobhoppen)
+   - [🔄 Artikel 22 — New Life Rule](#artikel-22-new-life-rule)
+   - [🏕️ Artikel 23 — Campen van locaties](#artikel-23-campen-van-locaties)
+   - [💸 Artikel 24 — IRL Trading](#artikel-24-irl-trading)
+   - [🕵️ Artikel 25 — Corruptie](#artikel-25-corruptie)
+   - [🎯 Artikel 26 — Overvallen](#artikel-26-overvallen)
+   - [⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers](#artikel-27-ontvoeren-van-overheidsmedewerkers)
+   - [🚁 Artikel 28 — Helikopters en vliegtuigen](#artikel-28-helikopters-en-vliegtuigen)
+   - [🎮 Artikel 29 — Minigames](#artikel-29-minigames)
+   - [🧬 Artikel 30 — Remakes](#artikel-30-remakes)
+4. [🔚 Slotbepalingen](#slotbepalingen)
+5. [🛑 Bijlage – Voorbeelden van cheats / externe software](#bijlage-voorbeelden-van-cheats-externe-software)
 
 ---
 
@@ -50,7 +82,9 @@
 | ⛔ 9 | Permanente verbanning |
 | ☠️ 10 | Permanente verbanning inclusief accountwipe |
 
-??? info "ℹ️ Algemene bepalingen sanctiestelsel"
+#### ℹ️ Algemene bepalingen sanctiestelsel
+
+??? info "💡 Uitleg"
     1. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen sanctierichtlijnen, indien de omstandigheden van het geval daartoe aanleiding geven.
     2. De beoordeling of een gedraging, handeling of nalaten valt onder een in deze APV omschreven feit of delict, berust uitsluitend bij de daartoe bevoegde staffleden.
     3. Indien een betrokkene herhaaldelijk wordt gesanctioneerd voor hetzelfde of een soortgelijk feit, kan dit worden aangemerkt als een strafverzwarende omstandigheid. In dat geval is een stafflid bevoegd een zwaardere sanctie op te leggen.
@@ -66,36 +100,26 @@
 
 #### 🎭 Artikel 1 — FailRP en Powergaming
 
-??? danger "Artikel 1 — FailRP en Powergaming · Categorie 1"
-    - Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP.
-    - Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming.
-    - Niet realistisch reageren indien je bent beschoten, bijvoorbeeld gaan rennen en/of springen.
-    - Het misbruiken van je "Z-spier" om te checken of en hoeveel mensen er in een voertuig zitten, verstopt zitten in bosjes, etc.
-    - Items stelen uit kofferbakken, indien hier geen scenario aan vooraf is gegaan.
-    - Tijdens een achtervolging je voertuig in de garage zetten om ervoor te zorgen dat je wordt gepakt.
-    - Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden.
-    - Indien je betrokken bent bij een vuurgevecht en geraakt wordt, is het toegestaan om deel te blijven nemen aan het gevecht. Na afloop ben je echter verplicht om medische hulp te verkrijgen van bevoegd medisch personeel.
-    - Het is verplicht dat je, indien jij een actie uitvoert zoals `/me bind vast`, deze actie eindigt met `/e mechanic`. Enkel op deze manier is de actie geldig. Wanneer je `/e mechanic` vergeet, is jouw actie ongeldig.
-    - Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit.
-    - Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is.
+??? info "💡 Uitleg"
+    Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP. Hieronder valt onder meer het niet realistisch reageren wanneer je beschoten wordt, bijvoorbeeld door te gaan rennen en/of springen, en het rijden met een open kofferbak om te voorkomen dat je doodgeschoten kunt worden. Ben je betrokken bij een vuurgevecht en word je geraakt, dan mag je daar wel aan blijven deelnemen — na afloop ben je echter verplicht medische hulp te zoeken bij bevoegd medisch personeel.
+
+    Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming. Dit geldt bijvoorbeeld voor het misbruiken van je "Z-spier" om te checken of, en hoeveel, mensen er in een voertuig zitten of verstopt zitten in bosjes — het gebruiken van de Z-spier om de locatie van een verstopte speler te achterhalen is eveneens niet toegestaan. Ook het stelen van items uit kofferbakken zonder dat hier een scenario aan vooraf is gegaan, en het tijdens een achtervolging in de garage zetten van je voertuig om gepakt te worden, vallen hieronder.
+
+    Voer je een actie uit zoals `/me bind vast`, dan ben je verplicht deze af te sluiten met `/e mechanic`. Alleen op die manier is de actie geldig; vergeet je `/e mechanic`, dan is de actie ongeldig. Tot slot is het verboden om meth te produceren in of onder gebouwen, in tunnels of op treinsporen — kortom, er mag niet gekookt worden op locaties waar de rode rook niet zichtbaar is.
 
     **🚨 Sanctie ⇨ Categorie 1**
 
 #### 🖥️ Artikel 2 — Cheats
 
-??? danger "Artikel 2 — Cheats · Categorie 2/9"
-    - Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
-    - Je kan door iemand van het AC Team benaderd worden voor een zogenoemde PC-check. Dit is niet verplicht, maar hierdoor kan wel onschuld worden aangetoond.
-    - PC-checks kunnen niet worden aangevraagd door een burger.
-    - Je kan te allen tijde worden gesanctioneerd naar aanleiding van ontvangen videobeelden.
-    - Een zogenoemde crosshair is ook niet toegestaan.
+??? info "💡 Uitleg"
+    Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden — een zogenoemde crosshair valt hier ook onder. Je kunt door iemand van het AC Team benaderd worden voor een zogenoemde PC-check; dit is niet verplicht, maar hiermee kan wel onschuld worden aangetoond. Let op: PC-checks kunnen niet worden aangevraagd door een burger zelf. Verder kun je te allen tijde worden gesanctioneerd naar aanleiding van ontvangen videobeelden.
 
     **🚨 Sanctie ⇨ Categorie 2** — gebruik van een crosshair
     **☠️ Sanctie ⇨ Categorie 9** — overige delicten binnen dit artikel
 
 #### 🐞 Artikel 3 — Exploits en bugmisbruik
 
-??? danger "Artikel 3 — Exploits en bugmisbruik · Categorie 8"
+??? info "💡 Uitleg"
     1. Het bewust misbruiken van een bug, exploit of onbedoelde game mechanic om voordeel te behalen voor jezelf of een ander is verboden. Hieronder valt onder meer:
         - Misbruik maken van bugs die niet gemeld worden bij ons Developmentteam
         - Misbruik maken van animaties
@@ -106,7 +130,7 @@
 
 #### 🗣️ Artikel 4 — Metagamen en externe communicatie
 
-??? danger "Artikel 4 — Metagamen en externe communicatie · Categorie 3"
+??? info "💡 Uitleg"
     1. Gekregen informatie OOC mag je niet gebruiken IC.
     2. Het is toegestaan om in een call te zitten wanneer je aanwezig bent in CombatGain, mits:
         - je gedeafend en gemute in deze call zit;
@@ -118,7 +142,7 @@
 
 #### 🎣 Artikel 5 — Uitlokken van overheid of criminelen
 
-??? danger "Artikel 5 — Uitlokken van overheid of criminelen · Categorie 1"
+??? info "💡 Uitleg"
     1. Het bewust uitlokken van politie met de bedoeling hen te irriteren, bezig te houden of zonder geldige roleplay tot actie te dwingen, wordt gezien als **copbaiting**.
     2. Het bewust uitlokken van officiële of onofficiële gangleden zonder geldige vorm van roleplay wordt gezien als **crimebaiting**.
 
@@ -126,7 +150,7 @@
 
 #### 🏃 Artikel 6 — Combatlogging & combatstashing
 
-??? danger "Artikel 6 — Combatlogging & combatstashing · Categorie 4"
+??? info "💡 Uitleg"
     1. Het verlaten van de stad tijdens een lopend roleplayscenario zonder geldige reden of zonder toestemming wordt gezien als combatlogging.
     2. Indien een persoon zijn wapen heeft gebruikt, mag deze de komende 10 minuten de stad niet verlaten. Indien iemand toch de stad uit moet, dient deze persoon een report aan te maken bij de staffleden.
     3. Indien je in een lopend scenario zat voor een geplande serverrestart, dien je na deze restart de stad weer te joinen om het scenario voort te zetten.
@@ -141,7 +165,7 @@
 
 #### 🚗 Artikel 7 — GTA Driving Style
 
-??? danger "Artikel 7 — GTA Driving Style · Categorie 1"
+??? info "💡 Uitleg"
     1. Het is niet toegestaan een onrealistische rijstijl aan te nemen. Voorbeelden hiervan zijn:
         - met een sportauto door de bergen rijden;
         - gebruikmaken van hoge jumps of ramps — dit mag ook niet met een motor.
@@ -157,26 +181,16 @@
 
 #### ❤️ Artikel 8 — No Value of Life
 
-??? danger "Artikel 8 — No Value of Life · Categorie 4"
-    Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. Er wordt van je verwacht dat je realistisch handelt in levensbedreigende situaties. Enkele voorbeelden hiervan zijn:
+??? info "💡 Uitleg"
+    Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. Er wordt van je verwacht dat je realistisch handelt in levensbedreigende situaties: zelfmoordscenario's opzetten is niet toegestaan, en ook het met je voertuig het water in rijden of van een brug afspringen zonder parachute is verboden. Word je geript, dan dien je de items binnen 10 seconden op de grond te droppen — dit geldt ook voor het openzetten van je voertuig. Staat er een slag- of steekwapen binnen armlengte, dan ben je verplicht mee te werken.
 
-    - Het is niet toegestaan om zelfmoordscenario's op te zetten.
-    - Op het moment dat je geript wordt, dien je de items binnen 10 seconden op de grond te droppen. Dit geldt ook voor het openzetten van je voertuig.
-    - Het is niet toegestaan om met je voertuig het water in te rijden.
-    - Je bent verplicht mee te werken indien een slag- of steekwapen binnen armlengte staat.
-    - Je mag niet van een brug afspringen indien je geen parachute hebt.
-    - Rijd je boven de 30 km/h, dan hoef je niet uit te stappen als daarom wordt gevraagd.
-    - Indien er een wapen op je gericht staat, mag je geen gebruik maken van je telefoon of portofoon. De overheid mag ook geen noodknoppen meer gebruiken.
-    - Het is geen No Value of Life indien iemand met een slag- of steekwapen tegen de deur van je auto staat, wanneer alle deuren en ramen gesloten zijn.
-    - Je hoeft niet mee te werken indien er een stroomstootwapen op je gericht staat. Wanneer je wel geraakt bent door dit wapen, dien je mee te werken en mag je niet meer wegrennen.
-    - Het is geen No Value of Life indien je wordt gehandsupt buiten shoutingrange.
-    - Op het moment dat je gehandsupt wordt, mag je niet gedwongen worden om de NPC met de drugsopslag te legen.
+    Rijd je boven de 30 km/h, dan hoef je niet uit te stappen als daarom gevraagd wordt. Staat er een wapen op je gericht, dan mag je geen gebruik maken van je telefoon of portofoon, en mag ook de overheid geen noodknoppen meer inzetten. Het is geen No Value of Life wanneer iemand met een slag- of steekwapen tegen de deur van je auto staat terwijl alle deuren en ramen gesloten zijn, en evenmin wanneer je buiten shoutingrange wordt gehandsupt. Bij een stroomstootwapen hoef je niet mee te werken zolang je nog niet geraakt bent; ben je wel geraakt, dan dien je mee te werken en mag je niet meer wegrennen. Word je gehandsupt, dan mag je niet gedwongen worden om de NPC met de drugsopslag te legen.
 
     **🚨 Sanctie ⇨ Categorie 4**
 
 #### 🎙️ Artikel 9 — Hoorbaarheid
 
-??? danger "Artikel 9 — Hoorbaarheid · Categorie 1"
+??? info "💡 Uitleg"
     1. Iedere speler moet in game beschikken over een werkende microfoon.
     2. Het opzettelijk weigeren om een werkende microfoon te gebruiken kan worden bestraft.
     3. Een voicechanger is toegestaan voor officiële gangs en neventaken van de politie, mits je te allen tijde verstaanbaar blijft.
@@ -187,7 +201,7 @@
 
 #### 📝 Artikel 10 — Reports en meldingen
 
-??? danger "Artikel 10 — Reports en meldingen · Categorie 1"
+??? info "💡 Uitleg"
     1. Het is niet toegestaan om overmatig reports of tickets aan te maken.
     2. Indien jij een klacht hebt over iemand die Random Deathmatch (RDM) pleegt, kan dit niet via livesupport worden opgelost en dien je te allen tijde een ticket aan te maken.
     3. Je bent verplicht een clipsysteem te hebben; zonder clips van de situatie kunnen de staffleden geen klachten en/of reports in behandeling nemen.
@@ -196,14 +210,14 @@
 
 #### 🎬 Artikel 11 — OOC
 
-??? danger "Artikel 11 — OOC · Categorie 1"
+??? info "💡 Uitleg"
     Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt die out of character zijn, zoals "report", "staff", "ticket", "desync" of vergelijkbare woorden.
 
     **🚨 Sanctie ⇨ Categorie 1**
 
 #### 👤 Artikel 12 — Accounts
 
-??? danger "Artikel 12 — Accounts · Categorie 10"
+??? info "💡 Uitleg"
     1. Het is niet toegestaan om gebruik te maken van alternatieve accounts.
     2. Enkele voorbeelden hiervan, niet uitputtend bedoeld, zijn:
         - een nieuw account aanmaken om een ban te omzeilen;
@@ -215,7 +229,7 @@
 
 #### 👮 Artikel 13 — Impersonatie van overheidsmedewerkers
 
-??? danger "Artikel 13 — Impersonatie van overheidsmedewerkers · Categorie 2"
+??? info "💡 Uitleg"
     1. Het is verboden jezelf voor te doen als overheidsmedewerker of kleding te dragen waarmee je bewust die indruk wekt.
     2. Het dragen van body armor of tassen van de overheid is niet toegestaan wanneer je daar geen recht op hebt.
 
@@ -223,7 +237,7 @@
 
 #### 🚙 Artikel 14 — VDM (Vehicle Deathmatch)
 
-??? danger "Artikel 14 — VDM (Vehicle Deathmatch) · Categorie 4"
+??? info "💡 Uitleg"
     1. Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien iemand niet overlijdt, telt dit als VDM.
     2. Enkele voorbeelden hiervan zijn:
         - iemand bewust doodrijden terwijl je aan het spookrijden bent, of op het voetpad;
@@ -236,7 +250,7 @@
 
 #### 🔫 Artikel 15 — RDM (Random Deathmatch)
 
-??? danger "Artikel 15 — RDM (Random Deathmatch) · Categorie 4"
+??? info "💡 Uitleg"
     1. Het is verboden om willekeurige shootouts te starten zonder geldige roleplay-aanleiding.
     2. Wanneer twee partijen actief op elkaar schieten, mag je zelf bepalen of je iemand doodschiet of niet.
     3. Finishen is toegestaan binnen de hele server, mits dit gebeurt binnen een actieve shootout of een geldige roleplaysituatie.
@@ -251,7 +265,7 @@
 
 #### 💰 Artikel 16 — Rippen
 
-??? danger "Artikel 16 — Rippen · Categorie 3"
+??? info "💡 Uitleg"
     1. Het is toegestaan iemand te rippen in de volgende gevallen:
         - dragen van een kogelwerend vest, masker en/of holster;
         - indien iemand actief aan het volgen/scouten is;
@@ -267,7 +281,7 @@
 
 #### 💬 Artikel 17 — Taalgebruik
 
-??? danger "Artikel 17 — Taalgebruik · Categorie 1"
+??? info "💡 Uitleg"
     1. Schelden met hedendaags relevante ziektes, racistische opmerkingen of andere ernstig ongepaste uitingen is verboden.
     2. Vrouwonvriendelijke beledigingen of denigrerende opmerkingen zijn verboden.
     3. Het betrekken van ouders of familieleden in beledigingen of conflicten valt onder dit artikel en wordt zwaarder beoordeeld.
@@ -277,7 +291,7 @@
 
 #### 🪙 Artikel 18 — Scammen en oplichting
 
-??? danger "Artikel 18 — Scammen en oplichting · Categorie 3"
+??? info "💡 Uitleg"
     1. Scammen is in CombatGain volledig verboden. Het maakt niet uit of de deal in game, via Discord of op een andere manier tot stand is gekomen.
     2. Onder scammen valt iedere vorm van oplichting waarbij afspraken over geld, goederen, wapens, drugs, voertuigen, diensten, informatie of andere waardevolle zaken bewust niet worden nagekomen.
     3. Ook het misleiden van een speler over prijs, hoeveelheid, item, voorwaarden, levering, betaling of identiteit valt onder scammen.
@@ -287,7 +301,7 @@
 
 #### 🔊 Artikel 19 — Stemherkenning
 
-??? danger "Artikel 19 — Stemherkenning · Categorie 1"
+??? info "💡 Uitleg"
     1. Het herkennen van een speler aan zijn of haar stem is toegestaan wanneer je die persoon redelijkerwijs kent.
     2. Je mag iemands stem niet herkennen wanneer die persoon een masker draagt.
     3. Wanneer iemand een voicechanger gebruikt, mag die persoon niet aan zijn of haar stem worden herkend.
@@ -296,14 +310,14 @@
 
 #### 📺 Artikel 20 — Streamsniping
 
-??? danger "Artikel 20 — Streamsniping · Categorie 3"
+??? info "💡 Uitleg"
     1. Het opzoeken van spelers, gebruiken van locaties of inzetten van informatie op basis van een stream is ten strengste verboden.
 
     **🚨 Sanctie ⇨ Categorie 3**
 
 #### 🔁 Artikel 21 — Jobhoppen
 
-??? danger "Artikel 21 — Jobhoppen · Categorie 1"
+??? info "💡 Uitleg"
     1. (Ex-)leden van een criminele organisatie moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere criminele organisatie mogen worden aangenomen.
     2. (Ex-)overheidsmedewerkers moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere overheidsdienst mogen worden aangenomen.
     3. Deze wachttijd geldt ook wanneer men van overheid naar criminele organisatie gaat en vice versa.
@@ -312,7 +326,7 @@
 
 #### 🔄 Artikel 22 — New Life Rule
 
-??? danger "Artikel 22 — New Life Rule · Categorie 2"
+??? info "💡 Uitleg"
     1. Wanneer je karakter overlijdt, wordt verwacht dat je de laatste roleplay vergeet en deze informatie niet opnieuw gebruikt.
     2. Als jouw karakter is komen te overlijden, wordt verwacht dat jij alle roleplay van vóór jouw dood bent vergeten, zoals locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden — dan kan je enkel de informatie gebruiken die je hoort.
 
@@ -323,7 +337,7 @@
 
 #### 🏕️ Artikel 23 — Campen van locaties
 
-??? danger "Artikel 23 — Campen van locaties · Categorie 1"
+??? info "💡 Uitleg"
     1. Het campen van belangrijke locaties is verboden wanneer dit gebeurt met het doel spelers op te wachten, te rippen, te overvallen of zonder geldige roleplay te confronteren.
     2. Onder belangrijke locaties vallen onder andere het politiehoofdbureau, het ziekenhuis, gangterreinen en andere drukbezochte of kwetsbare plekken.
     3. Een locatie korte tijd observeren binnen een lopend roleplayscenario kan toegestaan zijn, zolang dit realistisch blijft en niet verandert in langdurig opwachten zonder actieve roleplay.
@@ -332,7 +346,7 @@
 
 #### 💸 Artikel 24 — IRL Trading
 
-??? danger "Artikel 24 — IRL Trading · Categorie 9"
+??? info "💡 Uitleg"
     1. IRL trading is verboden. Hieronder valt het kopen, verkopen, ruilen of aanbieden van in-game geld, items, wapens, voertuigen, accounts, diensten, informatie of voordelen voor echt geld of andere waarde buiten de server.
     2. Ook het vragen om betalingen, cadeaubonnen, cryptovaluta, betaalverzoeken, goederen of diensten buiten CombatGain in ruil voor in-game voordeel valt onder IRL trading.
     3. Het aanbieden of faciliteren van IRL trading is eveneens verboden, ook wanneer de transactie uiteindelijk niet doorgaat.
@@ -344,7 +358,7 @@
 
 #### 🕵️ Artikel 25 — Corruptie
 
-??? danger "Artikel 25 — Corruptie · Categorie 8"
+??? info "💡 Uitleg"
     1. Het is voor een overheidsmedewerker niet toegestaan om illegale activiteiten te verrichten.
     2. Het is voor een overheidsmedewerker niet toegestaan om ingenomen goederen achter te houden.
     3. Indien je bent aangenomen binnen de overheid, heb je 24 uur om afstand te doen van illegale goederen:
@@ -356,7 +370,7 @@
 
 #### 🎯 Artikel 26 — Overvallen
 
-??? danger "Artikel 26 — Overvallen · Categorie 3"
+??? info "💡 Uitleg"
     1. Het is toegestaan om overal hostages te pakken.
     2. Per hostage ontvang je 1 eis.
     3. Indien je een overval pleegt en de politie is gearriveerd, mag je de politie niet vermoorden zonder goede reden.
@@ -368,7 +382,7 @@
 
 #### ⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers
 
-??? danger "Artikel 27 — Ontvoeren van overheidsmedewerkers · Categorie 2"
+??? info "💡 Uitleg"
     1. Ambulancemedewerkers mogen niet worden ontvoerd wanneer zij zichtbaar in dienst zijn.
     2. Per 3 agenten in dienst mag er 1 agent gegijzeld worden.
     3. Agenten die bezig zijn met een training mogen niet worden gegijzeld. Er moet zichtbaar zijn dat zij in een training zitten.
@@ -377,7 +391,7 @@
 
 #### 🚁 Artikel 28 — Helikopters en vliegtuigen
 
-??? danger "Artikel 28 — Helikopters en vliegtuigen · Categorie 1"
+??? info "💡 Uitleg"
     1. Vliegen met helikopters en vliegtuigen is toegestaan, zolang dit realistisch en logisch gebeurt.
     2. Je mag vliegen zoals je wilt, maar je moet rekening houden met wat redelijkerwijs kan binnen roleplay en veiligheid.
     3. Het is niet toegestaan om onrealistisch te landen, bijvoorbeeld met een helikopter midden op Blokkenpark, midden op straat omdat je naar een winkel wilt, of op andere plekken waar dit in realistische roleplay niet logisch is.
@@ -387,7 +401,7 @@
 
 #### 🎮 Artikel 29 — Minigames
 
-??? danger "Artikel 29 — Minigames · Categorie 1"
+??? info "💡 Uitleg"
     1. Het is tijdens minigames verboden om samen te werken met andere spelers.
     2. Het is toegestaan om tijdens minigames in een call te zitten.
 
@@ -395,7 +409,7 @@
 
 #### 🧬 Artikel 30 — Remakes
 
-??? danger "Artikel 30 — Remakes · Categorie 10"
+??? info "💡 Uitleg"
     1. Het is ten strengste verboden om serverbestanden te dumpen, na te maken of op welke manier dan ook te verspreiden zonder uitdrukkelijke toestemming.
     2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
 
@@ -412,3 +426,16 @@
 5. Deze APV treedt in werking op het moment van publicatie en blijft van kracht totdat zij geheel of gedeeltelijk wordt vervangen of ingetrokken.
 
 ---
+
+## 🛑 Bijlage — Voorbeelden van cheats / externe software
+
+
+- 🎯 Aimbot
+- 👁️ ESP / Wallhack
+- 🔫 Triggerbot
+- 🤖 Macro's
+- 🗂️ Mod Menu's
+
+---
+
+<p align="center"><sub>© CombatGain — Deze APV is uitsluitend van toepassing binnen de serveromgeving van CombatGain.</sub></p>
