@@ -93,3 +93,6 @@ body {
 .md-main {
     background: transparent !important;
 }
+body {
+    background: red !important;
+}
