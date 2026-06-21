@@ -84,3 +84,12 @@ html {
 .md-sidebar__scrollwrap {
     overflow-y: overlay !important;
 }
+body {
+    background-image: url("/APVcg/img/background.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.md-main {
+    background: transparent !important;
+}
