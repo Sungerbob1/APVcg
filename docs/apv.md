@@ -23,7 +23,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 ### Artikel 1.3 – Sanctiestelsel
 
 1. De sancties die op grond van deze APV kunnen worden opgelegd, zijn ingedeeld in de volgende categorieën.
-    * Categorie 1: een schriftelijke waarschuwing
+    * Categorie 1: een taakstraf van 50 uur
     * Categorie 2: een taakstraf van 100 uur
     * Categorie 3: een taakstraf van 250 uur
     * Categorie 4: een taakstraf van 500 uur
