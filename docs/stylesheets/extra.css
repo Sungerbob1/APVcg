@@ -225,3 +225,29 @@ body::before {
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
   color: #ffffff !important;
 }
+/* Header transparant maken zodat de achtergrondafbeelding zichtbaar is */
+.md-header {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+/* Tabs-balk ook transparant (optioneel, verwijder dit blok als je de tabs wél rood wilt houden) */
+.md-tabs {
+    background-color: transparent !important;
+}
+
+/* Tekstschaduw zodat titel en zoekbalk leesbaar blijven tegen de achtergrondafbeelding */
+.md-header__title,
+.md-header__topic {
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+}
+
+/* Subtiele achtergrond op de zoekbalk zelf, anders valt die helemaal weg */
+.md-search__form {
+    background-color: rgba(122, 19, 32, 0.6) !important;
+}
+
+/* Iconen (logo, thema-toggle) ook een lichte schaduw geven voor zichtbaarheid */
+.md-header__button {
+    filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.6));
+}
