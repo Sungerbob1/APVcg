@@ -31,20 +31,22 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
     * Categorie 6: een taakstraf van 1200 uur
     * Categorie 7: een taakstraf van 1600 uur
     * Categorie 8: een taakstraf van 2000 uur
+    * Categorie 9: een permanente verbanning
+    * Categoerie 10: een permanente verbanning inclusief een accountwipe
 
 
-1. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen sanctierichtlijnen, indien de omstandigheden van het geval daartoe aanleiding geven.
-2. De beoordeling of een gedraging, handeling of nalaten valt onder een in deze APV omschreven feit of delict, berust uitsluitend bij de daartoe bevoegde staffleden.
-3. Indien een betrokkene herhaaldelijk wordt gesanctioneerd voor hetzelfde of een soortgelijk feit, kan dit worden aangemerkt als een strafverzwarende omstandigheid. In dat geval is een stafflid bevoegd een zwaardere sanctie op te leggen.
-4. Indien een gedraging niet expliciet in deze APV is opgenomen, maar naar het oordeel van de staff strijdig is met de regels, doelstellingen of integriteit van CombatGain, kan alsnog een passende sanctie worden opgelegd. Een dergelijke beslissing wordt uitsluitend genomen na overleg met ten minste twee staffleden.
-5. Staffleden zijn bevoegd een tijdelijke preventieve schorsing, hierna te noemen een *safeban*, op te leggen indien nader onderzoek noodzakelijk wordt geacht. Een safeban heeft uitsluitend tot doel de voortgang van een onderzoek te waarborgen en vormt geen vaststelling van schuld.
-6. Indien een betrokkene eenzelfde feit of overtreding herhaaldelijk pleegt, kan bij iedere volgende overtreding een zwaardere sanctie worden opgelegd overeenkomstig het beginsel van recidive.
-7. De veoordeling van feiten, omstandigheden en bewijsmiddelen geschiedt naar redelijkheid en billijkheid door de daartoe bevoegde staffleden.
-8. Tegen beslissingen van staffleden kan uitsluitend bezwaar worden gemaakt overeenkomstig de binnen CombatGain geldende bezwaar- en klachtenprocedure.
+2. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen sanctierichtlijnen, indien de omstandigheden van het geval daartoe aanleiding geven.
+3. De beoordeling of een gedraging, handeling of nalaten valt onder een in deze APV omschreven feit of delict, berust uitsluitend bij de daartoe bevoegde staffleden.
+4. Indien een betrokkene herhaaldelijk wordt gesanctioneerd voor hetzelfde of een soortgelijk feit, kan dit worden aangemerkt als een strafverzwarende omstandigheid. In dat geval is een stafflid bevoegd een zwaardere sanctie op te leggen.
+5. Indien een gedraging niet expliciet in deze APV is opgenomen, maar naar het oordeel van de staff strijdig is met de regels, doelstellingen of integriteit van CombatGain, kan alsnog een passende sanctie worden opgelegd. Een dergelijke beslissing wordt uitsluitend genomen na overleg met ten minste twee staffleden.
+6. Staffleden zijn bevoegd een tijdelijke preventieve schorsing, hierna te noemen een *safeban*, op te leggen indien nader onderzoek noodzakelijk wordt geacht. Een safeban heeft uitsluitend tot doel de voortgang van een onderzoek te waarborgen en vormt geen vaststelling van schuld.
+7. Indien een betrokkene eenzelfde feit of overtreding herhaaldelijk pleegt, kan bij iedere volgende overtreding een zwaardere sanctie worden opgelegd overeenkomstig het beginsel van recidive.
+8. De veoordeling van feiten, omstandigheden en bewijsmiddelen geschiedt naar redelijkheid en billijkheid door de daartoe bevoegde staffleden.
+9. Tegen beslissingen van staffleden kan uitsluitend bezwaar worden gemaakt overeenkomstig de binnen CombatGain geldende bezwaar- en klachtenprocedure.
 
 
 -----
-## Algemeen beleid 
+## Algemene voorschriften 
 ### Artikel 1 - FailRP en Powergaming
 1. Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP.
 2. Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming.
