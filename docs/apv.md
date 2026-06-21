@@ -47,7 +47,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 
 -----
 ## Algemene voorschriften 
-??? info danger "Artikel 1 - FailRP en Powergaming"
+??? danger "Artikel 1 - FailRP en Powergaming"
     - Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP.
     -  Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming.
     -  Niet realistisch reageren indien je bent beschoten, bijvoorbeeld gaan rennen en/of springen. 
@@ -59,8 +59,8 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
     -  Het is verplicht indien jij een actie uitvoert zoals "/me bind vast" dat je deze actie eindigt met "/e mechanic. Enkel als je dit op deze manier gebruikt is de actie geldig. Wanneer je "/e mechanic vergeet, is jouw actie ongeldig. 
     -  Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
     -  Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is. 
-    > 
-    - > Sanctie ⇨ Categorie 1
+!!! warning "Sanctie"
+    Sanctie ⇨ Categorie 1
 
 ??? info danger "Artikel 2 - Cheats"
     - Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
