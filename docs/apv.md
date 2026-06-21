@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening CombatGain (APV)
+# ⚖️ Algemene Plaatselijke Verordening CombatGain (APV)
 ## <center> Welkom bij de officiële <b>CombatGain APV</b> .
  <center> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </center>
  
