@@ -60,7 +60,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 10. Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
 11. Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is. 
 
-> Sanctie ⇨ Boete van €70.000 + 30 uur taakstraf 
+> Sanctie ⇨ Categorie 1
 
 ### Artikel 2 - Cheats 
 1. Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
@@ -69,9 +69,9 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 4. Je kan ten alle tijden worden gesanctioneerd na aanleiding van ontvangen videobeelden. 
 5. Een zogenoemde crosshair is ook niet toegestaan. 
 
-> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf (Crosshair gebruik)
+> Sanctie ⇨ Categorie 2: (Crosshair gebruik)
 
-> Sanctie ⇨ Categorie 9 : een permanente ban (Overige delicten binnen dit artikel)
+> Sanctie ⇨ Categorie 9: (Overige delicten binnen dit artikel)
 
 
 ### Artikel 3 - Exploits en bugmisbruik
@@ -81,7 +81,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
     * Misbruik maken van het F6 menu voor overheid en/of groeperingen
     * Monkeypunchen
 
-> Sanctie ⇨ Categorie 8: een ban van 1 maand + 300 uur taakstraf
+> Sanctie ⇨ Categorie 8
 
 ### Artikel 4 - Metagamen en externe communicatie
 1. Gekregen informatie OOC mag je niet gebruiken IC. 
@@ -91,13 +91,13 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
     * Je niet aan het streamen bent. 
 3. Voor een overvalscenario mogen via Discord aanvullende documenten of bijlagen worden gestuurd, deze documenten stuur je naar de onderhandelaar van de desbetreffende overval. 
 
-> Sanctie: ⇨ Categorie 3: een ban van 12 uur + 75 uur taakstraf 
+> Sanctie: ⇨ Categorie 3
 
 ### Artikel 5 - Uitlokken van overheid of criminelen
 1. Het bewust uitlokken van politie met de bedoeling hen te irriteren, bezig te houden of zonder geldige roleplay tot actie te dwingen, wordt gezien als copbaiting.
 2. Het bewust uitlokken van officiële of onofficiële gangleden zonder geldige vorm van roleplay wordt gezien als crime baiting.
 
-> Sanctie: ⇨ Categorie 3: een ban van 12 uur + 75 uur taakstraf 
+> Sanctie: ⇨ Categorie 1
 
 ### Artikel 6 - Combatlogging & combatstashing
 1. Het verlaten van de stad tijdens een lopend roleplayscenario zonder geldige reden of zonder toestemming wordt gezien als combatlogging.
@@ -109,9 +109,9 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 7. Indien je als overheidsmedewerker criminele items hebt afgenomen dien je 5 minuten te wachten voordat je het HB in mag rijden. 
 8. Indien jij bijvoorbeeld een wapen in een dashboard stopt en je auto op slot zet, valt dit ook onder combatstashen. 
 
-> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + inventory wordt gecleared (Combatlogging)
+> Sanctie: ⇨ Categorie 4: + inventory wordt gecleared (Combatlogging)
 >
-> Sanctie: ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + items worden ingenomen (Combatstashing)
+> Sanctie: ⇨ Categorie 4: + items worden ingenomen (Combatstashing)
 
 
 ### Artikel 7 - GTA Driving Style 
@@ -125,7 +125,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 5. Politieagenten die in een SIV-voertuig rijden, zijn bevoegd om pits uit te voeren met een maximale snelheid van 120 km/h. 
 LET OP: <b>Pitten is geen beuken</b>
 
-> Sanctie: ⇨ Categorie 1: een waarschuwing 
+> Sanctie: ⇨ Categorie 1
 
 ### Artikel 8 - No Value of Life
 Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. Er wordt van je verwacht dat je realistisch handelt op levensbedreigende situaties, enkele voorbeelden hiervan zijn: 
@@ -142,7 +142,7 @@ Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. 
 * Het is geen No Value Of Life indien je wordt gehandsupped buiten shoutingrange.
 * Op het moment dat je gehandsupped wordt, mag je niet gedwongen worden om de NPC met de drugsopslag te legen. 
 
-> Sanctie ⇨ Boete van €65.000 + 20 uur taakstraf 
+> Sanctie ⇨ Categorie 4
 
 
 ### Artikel 9 - Hoorbaarheid
@@ -152,20 +152,20 @@ Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. 
 4. Het is alleen toegestaan je stem te verlagen; het verhogen van je stem is niet toegestaan.
 5. Het misbruiken van je microfoon is niet toegestaan, denk aan ear-rapen, blazen, schreeuwen, muziek door je microfoon draaien, storende soundpads. 
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Categorie 1 
 
 ### Artikel 10 - Reports en meldingen
 1. Het is niet toegestaan om overmatig reports of tickets aan te maken; 
 2. Indien jij een klacht hebt over iemand die Random Deathmatch (RDM) pleegt, kan dit niet via livesupport worden opgelost en dien je ten alle tijden een ticket aan te maken. 
 3. Je bent verplicht een clipsysteem te hebben, zonder clips van situatie kunnen de staffleden geen klachten en/of reports in behandeling nemen. 
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Categorie 1 
 
 
 ### Artikel 11 - OOC
 Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt die out of character zijn, zoals report, staff, ticket, desync of vergelijkbare woorden.
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Categorie 1 
 
 
 ### Artikel 12 - Accounts 
@@ -177,13 +177,14 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
     * Een nieuw account aanmaken om opnieuw te beginnen. Hiervoor dient een ticket aangemaakt te worden.
 3. Ook accountsharing is niet toegestaan.
 
-> Sanctie ⇨ Categorie 9 : een permanente ban 
+> Sanctie ⇨ Categorie 10
+
 
 ### Artikel 13 - Impersonatie van overheidsmedewerkers
 1. Het is verboden jezelf voor te doen als overheidsmedewerker of kleding te dragen waarmee je bewust die indruk wekt.
 2. Het dragen van body armor of tassen van de overheid is niet toegestaan wanneer je daar geen recht op hebt.
 
-> Sanctie: ⇨ een ban van 1 dag + 100 uur taakstraf + inventory wordt gecleared
+> Sanctie ⇨ Categorie 2
 
 ### Artikel 14 - VDM (Vehicle Deathmatch)
 1. Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien iemand niet overlijdt, telt dit als VDM.
@@ -194,7 +195,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
     * Als een persoon bewust voor een voertuig gaat staan, zien we dit als een verkeersongeval.
     * Bewust voor iemand remmen zodat deze persoon tegen jou aanknalt is niet toegestaan.
 
-> Sanctie ⇨ Boete van €75.000 + 30 uur taakstraf 
+> Sanctie ⇨ Categorie 4
 
 ### Artikel 15 - RDM (Random Deathmatch)
 1. Het is verboden om willekeurige shootouts te starten zonder geldige roleplay aanleiding. 
@@ -207,8 +208,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 8. Het willekeurig vermoorden van spelers zonder geldige reden is verboden.
 9. Het is toegestaan iemand te doden indien hij overduidelijk aan het scouten rondom illegale activiteiten. 
 
-> Sanctie ⇨ Boete van €75.000 + 30 uur taakstraf. 
-> Note: Een Super Moderator behoud zich het recht het vuurwapen in te nemen. 
+> Sanctie ⇨ Categorie 4
 
 ### Artikel 16 - Rippen
 
@@ -223,7 +223,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 5. Indien een wapencirkel actief is wordt dit gezien als een illegale locatie. 
 6. Het is niet toegestaan om iemand meerdere keren te rippen binnen 1 uur tijd. Tenzij persoon overduidelijk een anders eruit ziet dan voor de eerste rip. 
 
-> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf + de geripte goederen dienen ingeleverd te worden bij de gemeente. 
+> Sanctie ⇨ Categorie 3
 
 ### Artikel 17 - Taalgebruik
 1. Schelden met hedendaags relevante ziektes, racistische opsmerkingen of andere ernstig ongepaste uitingen is verboden.
@@ -231,7 +231,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 3. Het betrekken van ouders of familieleden in beledigingen of conflicten valt onder dit artikel en wordt zwaarder beoordeeld.
 4. Toxic gedrag wordt in geen enkele vorm toegestaan. Beoordeling of iets valt onder toxic gedrag is op bepaling van een stafflid. 
 
-> Sanctie ⇨ een ban van 1 dag + 100 uur taakstraf
+> Sanctie ⇨ Categorie 1
 
 ### Artikel 18 -  Scammen en oplichting
 1. Scammen is in CombatGain volledig verboden. Het maakt niet uit of de deal in game, via Discord of op een andere manier tot stand is gekomen.
@@ -239,19 +239,19 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 3. Ook het misleiden van een speler over prijs, hoeveelheid, item, voorwaarden, levering, betaling of identiteit valt onder scammen.
 4. Het verbod geldt voor alle transacties en voor alle soorten middelen, zowel witgeld als zwartgeld en zowel legale als illegale goederen.
 
-> Sanctie ⇨ Categorie 4: een ban van 1 dag + 100 uur taakstraf
+> Sanctie ⇨ Categorie 3
 
 ### Artikel 19 - Stemherkenning
 1. Het herkennen van een speler aan zijn of haar stem is toegestaan wanneer je die persoon redelijkerwijs kent.
 2. Je mag iemands stem niet herkennen wanneer die persoon een masker draagt.
 3. Wanneer iemand een voicechanger gebruikt, mag die persoon niet aan zijn of haar stem worden herkend.
 
-> Sanctie ⇨ Categorie 1 : Een waarschuwing
+> Sanctie ⇨ Categorie 1 
 
 ### Artikel 20 - Streamsniping
 1. Het opzoeken van spelers, gebruiken van locaties of inzetten van informatie op basis van een stream is ten strengste verboden.
 
-> Sanctie ⇨ Categorie 6: een ban 1 week + 175 uur taakstraf
+> Sanctie ⇨ Categorie 3
 
 ### Artikel 21 - Jobhoppen
 1. (Ex)leden van een criminele organisatie moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere criminele organisatie mogen worden aangenomen.
