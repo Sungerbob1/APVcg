@@ -164,3 +164,20 @@ body::before {
 .md-typeset table:not([class]) tr:hover td {
   background-color: #f3d4d8;
 }
+/* Bordeaux-thema voor quote-admonities (intro-tekst) */
+.md-typeset .admonition.quote,
+.md-typeset details.quote {
+  border-color: #7a1f2b;
+  background-color: #fdf2f3;
+}
+
+.md-typeset .admonition.quote > .admonition-title,
+.md-typeset details.quote > summary {
+  background-color: #f3d4d8;
+  border-color: #7a1f2b;
+}
+
+.md-typeset .admonition.quote > .admonition-title::before,
+.md-typeset details.quote > summary::before {
+  background-color: #7a1f2b;
+}
