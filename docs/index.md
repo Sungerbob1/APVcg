@@ -14,16 +14,16 @@
 | | Document | Omschrijving |
 |:---:|---|---|
 | ⚖️ | **[Algemene Plaatselijke Verordening](APV.md)** | Een verzameling van regels en richtlijnen die te maken hebben met zaken buiten roleplay. |
-| 📖 | **Wetboek** | Omvat alle wetten die gelden binnen de roleplay. |
-| 🚗🏝️ | **Overige documenten** | Van toepassing op specifieke in-game zaken, zoals voertuigeisen, eilandregelgeving en douanegebieden. |
-
+| 📖 | **[Wetboek](wetboek.md)** | Omvat alle wetten die gelden binnen de roleplay. |
+| 🚗🏝️ | **[Eiland regelgeving](eiland.md)** | Alle regels die gelden ophet Cayo Perico eiland. | 
+| 🚗🏝️ | **[Voertuigen](offroad.md)** | Een speciaal overzicht welke voertuigen offroad mogen rijden. |
 ---
 
 ## 💬 Officiële Discord servers
 
 | Server | Omschrijving | Uitnodiging |
 |---|---|:---:|
-| 🎮 **CombatGain Roleplay** | De hoofdserver van CombatGain | [Join →](https://discord.gg/7azsP8FMag) |
+| 🎮 **CombatGain Discord** | De hoofdserver van CombatGain | [Join →](https://discord.gg/7azsP8FMag) |
 | 🛠️ **CombatGain Support** | Alle support gerelateerde zaken worden hier geregeld | [Join →](https://discord.gg/YwEgxYpUjT) |
 | 🏛️ **CombatGain Overheid** | Verzamelplaats van alle overheidsorganisaties | [Join →](https://discord.gg/DwGQAv5zaT) |
 
