@@ -59,8 +59,8 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
     -  Het is verplicht indien jij een actie uitvoert zoals "/me bind vast" dat je deze actie eindigt met "/e mechanic. Enkel als je dit op deze manier gebruikt is de actie geldig. Wanneer je "/e mechanic vergeet, is jouw actie ongeldig. 
     -  Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
     -  Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is. 
-
-    -> Sanctie ⇨ Categorie 1
+    - >
+    - > Sanctie ⇨ Categorie 1
 
 ??? info danger "Artikel 2 - Cheats"
     - Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
@@ -68,7 +68,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
     -  PC checks kunnen niet worden aangevraagd door een burger. 
     -  Je kan ten alle tijden worden gesanctioneerd na aanleiding van ontvangen videobeelden. 
     -  Een zogenoemde crosshair is ook niet toegestaan. 
-
+    - > 
     - > Sanctie ⇨ Categorie 2: (Crosshair gebruik)
     - > Sanctie ⇨ Categorie 9: (Overige delicten binnen dit artikel)
 
