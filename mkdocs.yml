@@ -1,5 +1,5 @@
 # Project information
-site_name: Rework APV test
+site_name: Algemene Regelgeving CombatGain
 site_url: 'https://wetboek.combatgain.nl/'
 site_description: 'Wet en regelgeving van CombatGain'
 site_author: 'John'
@@ -38,8 +38,6 @@ nav:
   - Wetboek: wetboek.md
   - Eiland Regelgeving: eiland.md
   - Voertuigklasses: offroad.md
-  - Douanegebieden: douanegebieden.md
-
   
 extra_css:
   - stylesheets/extra.css
