@@ -344,7 +344,7 @@ Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt 
 5. Deze APV treedt in werking op het moment van publicatie en blijft van kracht totdat zij geheel of gedeeltelijk wordt vervangen of ingetrokken.
 
 
-??? info "Enkele voorbeelden van Cheats/Externe Software zijn"
+??? info danger "Enkele voorbeelden van Cheats/Externe Software zijn"
 
     - Aimbot
     - ESP / Wallhack
