@@ -10,6 +10,8 @@ copyright: Copyright &copy; 2026 CombatGain
 # Congiguration
 theme:
   name: material
+  features:
+    - header.autohide
   palette:
     - scheme: default
       toggle:
