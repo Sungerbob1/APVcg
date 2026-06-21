@@ -14,38 +14,6 @@
 1. [🏛️ Inleiding](#inleiding)
 2. [⚖️ Sanctiestelsel](#sanctiestelsel)
 3. [📋 Algemene voorschriften](#algemene-voorschriften)
-   - [🎭 Artikel 1 — FailRP en Powergaming](#artikel-1-failrp-en-powergaming)
-   - [🖥️ Artikel 2 — Cheats](#artikel-2-cheats)
-   - [🐞 Artikel 3 — Exploits en bugmisbruik](#artikel-3-exploits-en-bugmisbruik)
-   - [🗣️ Artikel 4 — Metagamen en externe communicatie](#artikel-4-metagamen-en-externe-communicatie)
-   - [🎣 Artikel 5 — Uitlokken van overheid of criminelen](#artikel-5-uitlokken-van-overheid-of-criminelen)
-   - [🏃 Artikel 6 — Combatlogging & combatstashing](#artikel-6-combatlogging-combatstashing)
-   - [🚗 Artikel 7 — GTA Driving Style](#artikel-7-gta-driving-style)
-   - [❤️ Artikel 8 — No Value of Life](#artikel-8-no-value-of-life)
-   - [🎙️ Artikel 9 — Hoorbaarheid](#artikel-9-hoorbaarheid)
-   - [📝 Artikel 10 — Reports en meldingen](#artikel-10-reports-en-meldingen)
-   - [🎬 Artikel 11 — OOC](#artikel-11-ooc)
-   - [👤 Artikel 12 — Accounts](#artikel-12-accounts)
-   - [👮 Artikel 13 — Impersonatie van overheidsmedewerkers](#artikel-13-impersonatie-van-overheidsmedewerkers)
-   - [🚙 Artikel 14 — VDM (Vehicle Deathmatch)](#artikel-14-vdm-vehicle-deathmatch)
-   - [🔫 Artikel 15 — RDM (Random Deathmatch)](#artikel-15-rdm-random-deathmatch)
-   - [💰 Artikel 16 — Rippen](#artikel-16-rippen)
-   - [💬 Artikel 17 — Taalgebruik](#artikel-17-taalgebruik)
-   - [🪙 Artikel 18 — Scammen en oplichting](#artikel-18-scammen-en-oplichting)
-   - [🔊 Artikel 19 — Stemherkenning](#artikel-19-stemherkenning)
-   - [📺 Artikel 20 — Streamsniping](#artikel-20-streamsniping)
-   - [🔁 Artikel 21 — Jobhoppen](#artikel-21-jobhoppen)
-   - [🔄 Artikel 22 — New Life Rule](#artikel-22-new-life-rule)
-   - [🏕️ Artikel 23 — Campen van locaties](#artikel-23-campen-van-locaties)
-   - [💸 Artikel 24 — IRL Trading](#artikel-24-irl-trading)
-   - [🕵️ Artikel 25 — Corruptie](#artikel-25-corruptie)
-   - [🎯 Artikel 26 — Overvallen](#artikel-26-overvallen)
-   - [⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers](#artikel-27-ontvoeren-van-overheidsmedewerkers)
-   - [🚁 Artikel 28 — Helikopters en vliegtuigen](#artikel-28-helikopters-en-vliegtuigen)
-   - [🎮 Artikel 29 — Minigames](#artikel-29-minigames)
-   - [🧬 Artikel 30 — Remakes](#artikel-30-remakes)
-4. [🔚 Slotbepalingen](#slotbepalingen)
-5. [🛑 Bijlage – Voorbeelden van cheats / externe software](#bijlage-voorbeelden-van-cheats-externe-software)
 
 ---
 
@@ -61,7 +29,7 @@
 1. Indien regelgeving wordt gewijzigd nadat een overtreding of strafbaar feit heeft plaatsgevonden, wordt de bepaling toegepast die voor de betrokkene het meest gunstige rechtsgevolg heeft.
 2. Een stafflid is gehouden zich te onthouden van iedere beoordeling, besluitvorming of advisering in zaken waarbij sprake is van een direct of indirect persoonlijk belang.
 3. In afwijking van het bepaalde in het tweede lid kan voor leden van het management, adviseurs en eigenaren een uitzondering worden gemaakt, indien de omstandigheden van het geval daartoe noodzaken.
-4. Indien een betrokkene aantoonbaar onjuiste, misleidende of onvolledige informatie verstrekt aan staffleden gedurende een onderzoek of procedure, kan dit als strafverzwarende omstandigheid worden aangemerkt bij de beoordeling van de zaak.
+4. Indien een betrokkene aantoonbaar onjuiste, misleidende of onvolledige alertrmatie verstrekt aan staffleden gedurende een onderzoek of procedure, kan dit als strafverzwarende omstandigheid worden aangemerkt bij de beoordeling van de zaak.
 
 ---
 
@@ -84,7 +52,7 @@
 
 #### ℹ️ Algemene bepalingen sanctiestelsel
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen sanctierichtlijnen, indien de omstandigheden van het geval daartoe aanleiding geven.
     2. De beoordeling of een gedraging, handeling of nalaten valt onder een in deze APV omschreven feit of delict, berust uitsluitend bij de daartoe bevoegde staffleden.
     3. Indien een betrokkene herhaaldelijk wordt gesanctioneerd voor hetzelfde of een soortgelijk feit, kan dit worden aangemerkt als een strafverzwarende omstandigheid. In dat geval is een stafflid bevoegd een zwaardere sanctie op te leggen.
@@ -100,7 +68,7 @@
 
 #### 🎭 Artikel 1 — FailRP en Powergaming
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP. Hieronder valt onder meer het niet realistisch reageren wanneer je beschoten wordt, bijvoorbeeld door te gaan rennen en/of springen, en het rijden met een open kofferbak om te voorkomen dat je doodgeschoten kunt worden. Ben je betrokken bij een vuurgevecht en word je geraakt, dan mag je daar wel aan blijven deelnemen — na afloop ben je echter verplicht medische hulp te zoeken bij bevoegd medisch personeel.
 
     Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming. Dit geldt bijvoorbeeld voor het misbruiken van je "Z-spier" om te checken of, en hoeveel, mensen er in een voertuig zitten of verstopt zitten in bosjes — het gebruiken van de Z-spier om de locatie van een verstopte speler te achterhalen is eveneens niet toegestaan. Ook het stelen van items uit kofferbakken zonder dat hier een scenario aan vooraf is gegaan, en het tijdens een achtervolging in de garage zetten van je voertuig om gepakt te worden, vallen hieronder.
@@ -111,7 +79,7 @@
 
 #### 🖥️ Artikel 2 — Cheats
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden — een zogenoemde crosshair valt hier ook onder. Je kunt door iemand van het AC Team benaderd worden voor een zogenoemde PC-check; dit is niet verplicht, maar hiermee kan wel onschuld worden aangetoond. Let op: PC-checks kunnen niet worden aangevraagd door een burger zelf. Verder kun je te allen tijde worden gesanctioneerd naar aanleiding van ontvangen videobeelden.
 
     **🚨 Sanctie ⇨ Categorie 2** — gebruik van een crosshair
@@ -119,7 +87,7 @@
 
 #### 🐞 Artikel 3 — Exploits en bugmisbruik
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het bewust misbruiken van een bug, exploit of onbedoelde game mechanic om voordeel te behalen voor jezelf of een ander is verboden. Hieronder valt onder meer:
         - Misbruik maken van bugs die niet gemeld worden bij ons Developmentteam
         - Misbruik maken van animaties
@@ -130,11 +98,11 @@
 
 #### 🗣️ Artikel 4 — Metagamen en externe communicatie
 
-??? info "💡 Uitleg"
-    1. Gekregen informatie OOC mag je niet gebruiken IC.
+??? alert "💡 Uitleg"
+    1. Gekregen alertrmatie OOC mag je niet gebruiken IC.
     2. Het is toegestaan om in een call te zitten wanneer je aanwezig bent in CombatGain, mits:
         - je gedeafend en gemute in deze call zit;
-        - je geen informatie doorspeelt via deze call;
+        - je geen alertrmatie doorspeelt via deze call;
         - je niet aan het streamen bent.
     3. Voor een overvalscenario mogen via Discord aanvullende documenten of bijlagen worden gestuurd; deze documenten stuur je naar de onderhandelaar van de desbetreffende overval.
 
@@ -142,7 +110,7 @@
 
 #### 🎣 Artikel 5 — Uitlokken van overheid of criminelen
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het bewust uitlokken van politie met de bedoeling hen te irriteren, bezig te houden of zonder geldige roleplay tot actie te dwingen, wordt gezien als **copbaiting**.
     2. Het bewust uitlokken van officiële of onofficiële gangleden zonder geldige vorm van roleplay wordt gezien als **crimebaiting**.
 
@@ -150,7 +118,7 @@
 
 #### 🏃 Artikel 6 — Combatlogging & combatstashing
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het verlaten van de stad tijdens een lopend roleplayscenario zonder geldige reden of zonder toestemming wordt gezien als combatlogging.
     2. Indien een persoon zijn wapen heeft gebruikt, mag deze de komende 10 minuten de stad niet verlaten. Indien iemand toch de stad uit moet, dient deze persoon een report aan te maken bij de staffleden.
     3. Indien je in een lopend scenario zat voor een geplande serverrestart, dien je na deze restart de stad weer te joinen om het scenario voort te zetten.
@@ -165,7 +133,7 @@
 
 #### 🚗 Artikel 7 — GTA Driving Style
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is niet toegestaan een onrealistische rijstijl aan te nemen. Voorbeelden hiervan zijn:
         - met een sportauto door de bergen rijden;
         - gebruikmaken van hoge jumps of ramps — dit mag ook niet met een motor.
@@ -181,7 +149,7 @@
 
 #### ❤️ Artikel 8 — No Value of Life
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     Als karakter in CombatGain is het verplicht om waarde te hechten aan het leven. Er wordt van je verwacht dat je realistisch handelt in levensbedreigende situaties: zelfmoordscenario's opzetten is niet toegestaan, en ook het met je voertuig het water in rijden of van een brug afspringen zonder parachute is verboden. Word je geript, dan dien je de items binnen 10 seconden op de grond te droppen — dit geldt ook voor het openzetten van je voertuig. Staat er een slag- of steekwapen binnen armlengte, dan ben je verplicht mee te werken.
 
     Rijd je boven de 30 km/h, dan hoef je niet uit te stappen als daarom gevraagd wordt. Staat er een wapen op je gericht, dan mag je geen gebruik maken van je telefoon of portofoon, en mag ook de overheid geen noodknoppen meer inzetten. Het is geen No Value of Life wanneer iemand met een slag- of steekwapen tegen de deur van je auto staat terwijl alle deuren en ramen gesloten zijn, en evenmin wanneer je buiten shoutingrange wordt gehandsupt. Bij een stroomstootwapen hoef je niet mee te werken zolang je nog niet geraakt bent; ben je wel geraakt, dan dien je mee te werken en mag je niet meer wegrennen. Word je gehandsupt, dan mag je niet gedwongen worden om de NPC met de drugsopslag te legen.
@@ -190,7 +158,7 @@
 
 #### 🎙️ Artikel 9 — Hoorbaarheid
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Iedere speler moet in game beschikken over een werkende microfoon.
     2. Het opzettelijk weigeren om een werkende microfoon te gebruiken kan worden bestraft.
     3. Een voicechanger is toegestaan voor officiële gangs en neventaken van de politie, mits je te allen tijde verstaanbaar blijft.
@@ -201,7 +169,7 @@
 
 #### 📝 Artikel 10 — Reports en meldingen
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is niet toegestaan om overmatig reports of tickets aan te maken.
     2. Indien jij een klacht hebt over iemand die Random Deathmatch (RDM) pleegt, kan dit niet via livesupport worden opgelost en dien je te allen tijde een ticket aan te maken.
     3. Je bent verplicht een clipsysteem te hebben; zonder clips van de situatie kunnen de staffleden geen klachten en/of reports in behandeling nemen.
@@ -210,14 +178,14 @@
 
 #### 🎬 Artikel 11 — OOC
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     Het is verboden je karakter te breken. Dit betekent dat je geen termen gebruikt die out of character zijn, zoals "report", "staff", "ticket", "desync" of vergelijkbare woorden.
 
     **🚨 Sanctie ⇨ Categorie 1**
 
 #### 👤 Artikel 12 — Accounts
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is niet toegestaan om gebruik te maken van alternatieve accounts.
     2. Enkele voorbeelden hiervan, niet uitputtend bedoeld, zijn:
         - een nieuw account aanmaken om een ban te omzeilen;
@@ -229,7 +197,7 @@
 
 #### 👮 Artikel 13 — Impersonatie van overheidsmedewerkers
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is verboden jezelf voor te doen als overheidsmedewerker of kleding te dragen waarmee je bewust die indruk wekt.
     2. Het dragen van body armor of tassen van de overheid is niet toegestaan wanneer je daar geen recht op hebt.
 
@@ -237,7 +205,7 @@
 
 #### 🚙 Artikel 14 — VDM (Vehicle Deathmatch)
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is niet toegestaan om je voertuig als geweldsmiddel te gebruiken. Ook indien iemand niet overlijdt, telt dit als VDM.
     2. Enkele voorbeelden hiervan zijn:
         - iemand bewust doodrijden terwijl je aan het spookrijden bent, of op het voetpad;
@@ -250,7 +218,7 @@
 
 #### 🔫 Artikel 15 — RDM (Random Deathmatch)
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is verboden om willekeurige shootouts te starten zonder geldige roleplay-aanleiding.
     2. Wanneer twee partijen actief op elkaar schieten, mag je zelf bepalen of je iemand doodschiet of niet.
     3. Finishen is toegestaan binnen de hele server, mits dit gebeurt binnen een actieve shootout of een geldige roleplaysituatie.
@@ -265,7 +233,7 @@
 
 #### 💰 Artikel 16 — Rippen
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is toegestaan iemand te rippen in de volgende gevallen:
         - dragen van een kogelwerend vest, masker en/of holster;
         - indien iemand actief aan het volgen/scouten is;
@@ -281,7 +249,7 @@
 
 #### 💬 Artikel 17 — Taalgebruik
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Schelden met hedendaags relevante ziektes, racistische opmerkingen of andere ernstig ongepaste uitingen is verboden.
     2. Vrouwonvriendelijke beledigingen of denigrerende opmerkingen zijn verboden.
     3. Het betrekken van ouders of familieleden in beledigingen of conflicten valt onder dit artikel en wordt zwaarder beoordeeld.
@@ -291,9 +259,9 @@
 
 #### 🪙 Artikel 18 — Scammen en oplichting
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Scammen is in CombatGain volledig verboden. Het maakt niet uit of de deal in game, via Discord of op een andere manier tot stand is gekomen.
-    2. Onder scammen valt iedere vorm van oplichting waarbij afspraken over geld, goederen, wapens, drugs, voertuigen, diensten, informatie of andere waardevolle zaken bewust niet worden nagekomen.
+    2. Onder scammen valt iedere vorm van oplichting waarbij afspraken over geld, goederen, wapens, drugs, voertuigen, diensten, alertrmatie of andere waardevolle zaken bewust niet worden nagekomen.
     3. Ook het misleiden van een speler over prijs, hoeveelheid, item, voorwaarden, levering, betaling of identiteit valt onder scammen.
     4. Het verbod geldt voor alle transacties en voor alle soorten middelen, zowel witgeld als zwartgeld en zowel legale als illegale goederen.
 
@@ -301,7 +269,7 @@
 
 #### 🔊 Artikel 19 — Stemherkenning
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het herkennen van een speler aan zijn of haar stem is toegestaan wanneer je die persoon redelijkerwijs kent.
     2. Je mag iemands stem niet herkennen wanneer die persoon een masker draagt.
     3. Wanneer iemand een voicechanger gebruikt, mag die persoon niet aan zijn of haar stem worden herkend.
@@ -310,14 +278,14 @@
 
 #### 📺 Artikel 20 — Streamsniping
 
-??? info "💡 Uitleg"
-    1. Het opzoeken van spelers, gebruiken van locaties of inzetten van informatie op basis van een stream is ten strengste verboden.
+??? alert "💡 Uitleg"
+    1. Het opzoeken van spelers, gebruiken van locaties of inzetten van alertrmatie op basis van een stream is ten strengste verboden.
 
     **🚨 Sanctie ⇨ Categorie 3**
 
 #### 🔁 Artikel 21 — Jobhoppen
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. (Ex-)leden van een criminele organisatie moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere criminele organisatie mogen worden aangenomen.
     2. (Ex-)overheidsmedewerkers moeten minimaal 3 kalenderdagen wachten na ontslag of vertrek voordat zij bij een andere overheidsdienst mogen worden aangenomen.
     3. Deze wachttijd geldt ook wanneer men van overheid naar criminele organisatie gaat en vice versa.
@@ -326,9 +294,9 @@
 
 #### 🔄 Artikel 22 — New Life Rule
 
-??? info "💡 Uitleg"
-    1. Wanneer je karakter overlijdt, wordt verwacht dat je de laatste roleplay vergeet en deze informatie niet opnieuw gebruikt.
-    2. Als jouw karakter is komen te overlijden, wordt verwacht dat jij alle roleplay van vóór jouw dood bent vergeten, zoals locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden — dan kan je enkel de informatie gebruiken die je hoort.
+??? alert "💡 Uitleg"
+    1. Wanneer je karakter overlijdt, wordt verwacht dat je de laatste roleplay vergeet en deze alertrmatie niet opnieuw gebruikt.
+    2. Als jouw karakter is komen te overlijden, wordt verwacht dat jij alle roleplay van vóór jouw dood bent vergeten, zoals locaties, personen, situaties en aanleidingen. Je mag geïnformeerd worden — dan kan je enkel de alertrmatie gebruiken die je hoort.
 
     !!! warning "⚠️ Let op"
         Je mag niet terug aansluiten bij het scenario waarin je bent overleden.
@@ -337,7 +305,7 @@
 
 #### 🏕️ Artikel 23 — Campen van locaties
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het campen van belangrijke locaties is verboden wanneer dit gebeurt met het doel spelers op te wachten, te rippen, te overvallen of zonder geldige roleplay te confronteren.
     2. Onder belangrijke locaties vallen onder andere het politiehoofdbureau, het ziekenhuis, gangterreinen en andere drukbezochte of kwetsbare plekken.
     3. Een locatie korte tijd observeren binnen een lopend roleplayscenario kan toegestaan zijn, zolang dit realistisch blijft en niet verandert in langdurig opwachten zonder actieve roleplay.
@@ -346,8 +314,8 @@
 
 #### 💸 Artikel 24 — IRL Trading
 
-??? info "💡 Uitleg"
-    1. IRL trading is verboden. Hieronder valt het kopen, verkopen, ruilen of aanbieden van in-game geld, items, wapens, voertuigen, accounts, diensten, informatie of voordelen voor echt geld of andere waarde buiten de server.
+??? alert "💡 Uitleg"
+    1. IRL trading is verboden. Hieronder valt het kopen, verkopen, ruilen of aanbieden van in-game geld, items, wapens, voertuigen, accounts, diensten, alertrmatie of voordelen voor echt geld of andere waarde buiten de server.
     2. Ook het vragen om betalingen, cadeaubonnen, cryptovaluta, betaalverzoeken, goederen of diensten buiten CombatGain in ruil voor in-game voordeel valt onder IRL trading.
     3. Het aanbieden of faciliteren van IRL trading is eveneens verboden, ook wanneer de transactie uiteindelijk niet doorgaat.
     4. Het is niet toegestaan om donatievoertuigen te verkopen voor in-game valuta.
@@ -358,7 +326,7 @@
 
 #### 🕵️ Artikel 25 — Corruptie
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is voor een overheidsmedewerker niet toegestaan om illegale activiteiten te verrichten.
     2. Het is voor een overheidsmedewerker niet toegestaan om ingenomen goederen achter te houden.
     3. Indien je bent aangenomen binnen de overheid, heb je 24 uur om afstand te doen van illegale goederen:
@@ -370,7 +338,7 @@
 
 #### 🎯 Artikel 26 — Overvallen
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is toegestaan om overal hostages te pakken.
     2. Per hostage ontvang je 1 eis.
     3. Indien je een overval pleegt en de politie is gearriveerd, mag je de politie niet vermoorden zonder goede reden.
@@ -382,7 +350,7 @@
 
 #### ⛓️ Artikel 27 — Ontvoeren van overheidsmedewerkers
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Ambulancemedewerkers mogen niet worden ontvoerd wanneer zij zichtbaar in dienst zijn.
     2. Per 3 agenten in dienst mag er 1 agent gegijzeld worden.
     3. Agenten die bezig zijn met een training mogen niet worden gegijzeld. Er moet zichtbaar zijn dat zij in een training zitten.
@@ -391,7 +359,7 @@
 
 #### 🚁 Artikel 28 — Helikopters en vliegtuigen
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Vliegen met helikopters en vliegtuigen is toegestaan, zolang dit realistisch en logisch gebeurt.
     2. Je mag vliegen zoals je wilt, maar je moet rekening houden met wat redelijkerwijs kan binnen roleplay en veiligheid.
     3. Het is niet toegestaan om onrealistisch te landen, bijvoorbeeld met een helikopter midden op Blokkenpark, midden op straat omdat je naar een winkel wilt, of op andere plekken waar dit in realistische roleplay niet logisch is.
@@ -401,7 +369,7 @@
 
 #### 🎮 Artikel 29 — Minigames
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is tijdens minigames verboden om samen te werken met andere spelers.
     2. Het is toegestaan om tijdens minigames in een call te zitten.
 
@@ -409,7 +377,7 @@
 
 #### 🧬 Artikel 30 — Remakes
 
-??? info "💡 Uitleg"
+??? alert "💡 Uitleg"
     1. Het is ten strengste verboden om serverbestanden te dumpen, na te maken of op welke manier dan ook te verspreiden zonder uitdrukkelijke toestemming.
     2. Het is ten strengste verboden om een remake van onze server te maken en deze door te verkopen of te verspreiden.
 
