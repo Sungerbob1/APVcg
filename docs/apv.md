@@ -412,16 +412,3 @@
 5. Deze APV treedt in werking op het moment van publicatie en blijft van kracht totdat zij geheel of gedeeltelijk wordt vervangen of ingetrokken.
 
 ---
-
-## 🛑 Bijlage — Voorbeelden van cheats / externe software
-
-??? danger "🧨 Bekende vormen van cheats / externe software"
-    - 🎯 Aimbot
-    - 👁️ ESP / Wallhack
-    - 🔫 Triggerbot
-    - 🤖 Macro's
-    - 🗂️ Mod Menu's
-
----
-
-<p align="center"><sub>© CombatGain — Deze APV is uitsluitend van toepassing binnen de serveromgeving van CombatGain.</sub></p>
