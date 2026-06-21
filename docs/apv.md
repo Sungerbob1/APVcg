@@ -33,7 +33,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
     * Categorie 8: een taakstraf van 2000 uur
     * Categorie 9: een permanente verbanning
     * Categoerie 10: een permanente verbanning inclusief een accountwipe
-
+> 
 
 2. Een stafflid is te allen tijde bevoegd gemotiveerd af te wijken van de in deze APV opgenomen sanctierichtlijnen, indien de omstandigheden van het geval daartoe aanleiding geven.
 3. De beoordeling of een gedraging, handeling of nalaten valt onder een in deze APV omschreven feit of delict, berust uitsluitend bij de daartoe bevoegde staffleden.
@@ -62,7 +62,7 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 
 > Sanctie ⇨ Boete van €70.000 + 30 uur taakstraf 
 
-### Artikel 2 - Cheats en externe software 
+### Artikel 2 - Cheats 
 1. Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
 2. Je kan door iemand van het AC Team benaderd worden voor een zogenoemde PC check, dit is niet verplicht echter kan hierdoor wel onschuld worden aangetoond. 
 3. PC checks kunnen niet worden aangevraagd door een burger. 
