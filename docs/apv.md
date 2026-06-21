@@ -48,26 +48,26 @@ De Algemene Plaatselijke Verordening van CombatGain, hierna te noemen: de APV, b
 -----
 ## Algemene voorschriften 
 ??? info danger "Artikel 1 - FailRP en Powergaming"
-- Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP.
--  Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming.
--  Niet realistisch reageren indien je bent beschoten, bijvoorbeeld gaan rennen en/of springen. 
--  Het misbruiken van je "Z-spier" om te checken of en hoeveel mensen er in een voertuig zitten, verstopt zitten in bosjes etc. 
--  Items stelen uit kofferbakken, indien hier geen scenario aan vooraf is gegaan. 
--  Tijdens een achtervolging je voertuig in de garage zetten om ervoor te zorgen dat je wordt gepakt. 
--  Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden. 
--  Indien je betrokken bent bij een vuurgevecht en geraakt wordt, is het toegestaan om deel te blijven nemen aan het gevecht. Na afloop ben je echter verplicht om medische hulp te verkrijgen van bevoegd medisch personeel.
--  Het is verplicht indien jij een actie uitvoert zoals "/me bind vast" dat je deze actie eindigt met "/e mechanic. Enkel als je dit op deze manier gebruikt is de actie geldig. Wanneer je "/e mechanic vergeet, is jouw actie ongeldig. 
--  Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
--  Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is. 
+    - Het opzettelijk neerzetten van roleplay van zeer lage kwaliteit wordt gezien als FailRP.
+    -  Het zodanig sturen, afdwingen of invullen van roleplay dat een andere speler geen realistische keuze meer heeft, wordt gezien als powergaming.
+    -  Niet realistisch reageren indien je bent beschoten, bijvoorbeeld gaan rennen en/of springen. 
+    -  Het misbruiken van je "Z-spier" om te checken of en hoeveel mensen er in een voertuig zitten, verstopt zitten in bosjes etc. 
+    -  Items stelen uit kofferbakken, indien hier geen scenario aan vooraf is gegaan. 
+    -  Tijdens een achtervolging je voertuig in de garage zetten om ervoor te zorgen dat je wordt gepakt. 
+    -  Rijden met een open kofferbak om te zorgen dat je niet doodgeschoten kan worden. 
+    -  Indien je betrokken bent bij een vuurgevecht en geraakt wordt, is het toegestaan om deel te blijven nemen aan het gevecht. Na afloop ben je echter verplicht om medische hulp te verkrijgen van bevoegd medisch personeel.
+    -  Het is verplicht indien jij een actie uitvoert zoals "/me bind vast" dat je deze actie eindigt met "/e mechanic. Enkel als je dit op deze manier gebruikt is de actie geldig. Wanneer je "/e mechanic vergeet, is jouw actie ongeldig. 
+    -  Het is niet toegestaan om de Z-spier te gebruiken om te checken waar een andere speler verstopt zit. 
+    -  Het is verboden om meth te produceren in/onder gebouwen, tunnels of op treinsporen. Over het algemeen mag er dus niet worden gekookt op locaties waar de rode rook niet zichtbaar is. 
 
 > Sanctie ⇨ Categorie 1
 
 ??? info danger "Artikel 2 - Cheats"
-- Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
--  Je kan door iemand van het AC Team benaderd worden voor een zogenoemde PC check, dit is niet verplicht echter kan hierdoor wel onschuld worden aangetoond. 
--  PC checks kunnen niet worden aangevraagd door een burger. 
--  Je kan ten alle tijden worden gesanctioneerd na aanleiding van ontvangen videobeelden. 
--  Een zogenoemde crosshair is ook niet toegestaan. 
+    - Het gebruiken van software, hulpmiddelen of aanpassingen van derden om voordeel te behalen voor jezelf of een ander is verboden.
+    -  Je kan door iemand van het AC Team benaderd worden voor een zogenoemde PC check, dit is niet verplicht echter kan hierdoor wel onschuld worden aangetoond. 
+    -  PC checks kunnen niet worden aangevraagd door een burger. 
+    -  Je kan ten alle tijden worden gesanctioneerd na aanleiding van ontvangen videobeelden. 
+    -  Een zogenoemde crosshair is ook niet toegestaan. 
 
 > Sanctie ⇨ Categorie 2: (Crosshair gebruik)
 
