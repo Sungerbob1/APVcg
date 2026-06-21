@@ -17,7 +17,7 @@
 | 📖 | **[Wetboek](wetboek.md)** | Omvat alle wetten die gelden binnen de roleplay. |
 | 🚗🏝️ | **[Eiland regelgeving](eiland.md)** | Alle regels die gelden ophet Cayo Perico eiland. | 
 | 🚗🏝️ | **[Voertuigen](offroad.md)** | Een speciaal overzicht welke voertuigen offroad mogen rijden. |
----
+
 
 ## 💬 Officiële Discord servers
 
